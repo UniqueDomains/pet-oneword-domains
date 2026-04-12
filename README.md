@@ -1,22 +1,22 @@
-# Available .PET One-Word Domains (5,621,926)
+# Available .PET One-Word Domains (8,780)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C780%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C780%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .pet one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .pet one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,780-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,780 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 8,780 rows · **Live catalog:** 8,780 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/pet`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| clear.pet     | available | $19.99    | $59.99        | 90             | 50     | 5      | name.com                                     |
+| clear.pet     | available | $19.99    | $59.99        | 90             | 49     | 5      | name.com                                     |
 | funny.pet     | resell    | $2,517.35 | $59.99        | 111            | 27     | 5      | Porkbun LLC                                  |
 | free.pet      | premium   | $1,250    | $1,250        | 88             | 54     | 4      | name.com                                     |
 | goat.pet      | available | $19.99    | —             | 62             | 46     | 4      | name.com                                     |
@@ -75,13 +75,13 @@ print(df.head())
 | travel.pet    | premium   | $1,250    | $1,250        | 115            | 48     | 6      | name.com                                     |
 | gather.pet    | available | $19.99    | $59.99        | 96             | 38     | 6      | name.com                                     |
 | wise.pet      | resell    | —         | —             | 98             | 72     | 4      | Spaceship, Inc.                              |
-| law.pet       | premium   | $3,250    | $3,250        | 82             | 48     | 3      | namecheap                                    |
+| law.pet       | premium   | $3,250    | $3,250        | 82             | 46     | 3      | namecheap                                    |
 | conscious.pet | available | $19.99    | $59.99        | 89             | 38     | 9      | name.com                                     |
-| hello.pet     | resell    | —         | —             | 130            | 71     | 5      | Porkbun LLC                                  |
-| hotel.pet     | premium   | $3,250    | $3,250        | 70             | 46     | 5      | namecheap                                    |
+| hello.pet     | resell    | —         | —             | 130            | 70     | 5      | Porkbun LLC                                  |
+| hotel.pet     | premium   | $3,250    | $3,250        | 70             | 45     | 5      | namecheap                                    |
 | unify.pet     | available | $19.99    | $59.99        | 72             | 38     | 5      | name.com                                     |
 | mini.pet      | resell    | —         | —             | 70             | 70     | 4      | 101domain GRS Limited                        |
-| health.pet    | premium   | $3,250    | $3,250        | 92             | 45     | 6      | namecheap                                    |
+| health.pet    | premium   | $3,250    | $3,250        | 92             | 43     | 6      | namecheap                                    |
 | risk.pet      | available | $35.98    | —             | 62             | 38     | 4      | namecheap                                    |
 | get.pet       | resell    | —         | —             | 88             | 69     | 3      | Virtualia LLC                                |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,780-row public sample | 5,621,926 live domains                           |
+| 8,780-row public sample | 8,780 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PET One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PET One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
