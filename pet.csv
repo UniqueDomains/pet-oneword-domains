@@ -652,6 +652,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ba93e54-5848-4166-8f6c-69426db31bf2,costprice.pet,available,19.99,,70,4,10,name.com,,
 3bad20e6-8929-4c74-bb1c-570bfb9775a6,terracotta.pet,available,19.99,,72,12,11,name.com,,
 3bb8d390-6016-44d3-a152-620d49ef172d,hides.pet,available,19.99,,50,5,5,name.com,,
+3bc75402-5036-4851-92f3-2a7e04becf65,loss.pet,premium,,,62,14,4,,,
 3bd04d7b-5273-4efe-8e62-9cd99ad54623,doup.pet,available,19.99,,70,5,5,name.com,,
 3becf184-c5cc-4c66-a9e5-2742138b0f3e,sees.pet,available,19.99,,52,10,4,name.com,,
 3bf36cda-596d-4761-b7fc-b19293efad63,instate.pet,available,19.99,,66,4,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58f2cf38-58f8-42da-bd27-543df4257054,ofan.pet,available,19.99,,44,4,5,name.com,,
 58fc7236-74cd-4e55-bd9a-e593f1a56538,resists.pet,available,19.99,,52,2,7,name.com,,
 59247bf8-810e-41d7-817d-e089cdbbec71,ontop.pet,available,19.99,,66,14,6,name.com,,
-5963534d-9874-4581-942b-2755155b58a8,abovespecified.pet,available,19.99,,54,0,15,name.com,,
