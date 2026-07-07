@@ -1,10 +1,10 @@
-# Available .PET One-Word Domains (11,671)
+# Available .PET One-Word Domains (11,672)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C671%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C672%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .pet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,671 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,672 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,671 domains · **Median ask:** $60.73 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,672 domains · **Median ask:** $69.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/pet`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/pet`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PET one-word domain c
 
 ### Files
 
-- `pet.csv` — public CSV extract (1,000 rows)
-- `pet.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `pet.csv`, public CSV extract (1,000 rows)
+- `pet.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.pet    | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
-| coins.pet        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc      |
-| regions.pet      | premium   | $1,250    | —             | 64             | 59     | 7      | name.com         |
-| prompts.pet      | available | $19.99    | —             | 54             | 39     | 7      | name.com         |
-| ideas.pet        | resell    | —         | —             | 62             | 36     | 5      | GoDaddy.com, LLC |
-| Books.pet        | premium   | $3,500    | $3,500        | 52             | 49     | 5      | namecheap        |
-| trends.pet       | available | $19.99    | —             | 60             | 32     | 6      | name.com         |
-| tips.pet         | resell    | —         | —             | 80             | 26     | 4      | GoDaddy.com, LLC |
-| photos.pet       | premium   | $3,125    | —             | 54             | 28     | 6      | name.com         |
-| William.pet      | available | $35.98    | —             | 74             | 31     | 7      | namecheap        |
-| registration.pet | resell    | —         | —             | 75             | 19     | 12     | IONOS SE         |
-| sites.pet        | premium   | $1,250    | —             | 53             | 26     | 5      | name.com         |
-| quotes.pet       | available | $19.99    | —             | 58             | 29     | 6      | name.com         |
-| blogs.pet        | premium   | $1,107    | $1,107        | 52             | 21     | 5      | namesilo         |
-| popup.pet        | available | $19.99    | —             | 84             | 28     | 6      | name.com         |
-| pictures.pet     | premium   | $3,125    | —             | 82             | 17     | 8      | name.com         |
-| systems.pet      | available | $19.99    | —             | 46             | 27     | 7      | name.com         |
-| states.pet       | premium   | $1,250    | —             | 70             | 16     | 6      | name.com         |
-| Keith.pet        | available | $35.98    | —             | 66             | 25     | 5      | namecheap        |
-| shows.pet        | premium   | $1,250    | —             | 66             | 16     | 5      | name.com         |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| bce.pet  | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| dad.pet  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| btw.pet  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| dvd.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| ego.pet  | resell    | —         | —             | medium         | low    | 3      | NameSilo, LLC                                |
+| hug.pet  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| gal.pet  | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| ice.pet  | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                  |
+| kid.pet  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| LLP.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| see.pet  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 24                            |
+| law.pet  | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap                                    |
+| MMR.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| auto.pet | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| east.pet | premium   | $1,250    | $1,250        | high           | low    | 4      | name.com                                     |
+| mum.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| core.pet | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| fish.pet | premium   | $3,125    | —             | high           | low    | 4      | name.com                                     |
+| spf.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| good.pet | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,671 live domains                        |
+| 1,000-row public sample | 11,672 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .pet domains, which makes the naming signal explicit from the extension itself. The set ranges from short words like ace.pet and room.pet to longer or more literal terms like hockeyplayer.pet and definition.pet. That creates a wide spread in memorability, flexibility, and likely buyer appeal. For founders, the strongest options are usually concise, easy to say, and broad enough to fit a pet brand without boxing it in. For investors, quality tends to concentrate in short dictionary words with clean spelling and straightforward commercial use. Median ask is 60.76, so the first screen is whether the word quality justifies the price and any ongoing renewal commitment.
+This selection gathers one-word .pet domain names spanning the pet niche—covering care, wellness, lifestyle, and product-focused terms. With 11,672 names and a median asking price near $69, it offers a broad base for comparing brandable, ownable pet-industry domains before committing to a purchase.
 
-- Short .pet names tend to be easier to remember and compare
-- Check whether the word fits pets naturally or feels forced
-- Avoid obvious trademark terms unless rights are clearly clean
-- Use median ask 60.76 as a baseline for value judgment
+- 11,672 one-word .pet domain names across the pet niche
+- Median asking price near $69 per domain
+- Short, brandable names like matcha.pet and pictures.pet
+- Pricing details updated daily for easy comparison
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PET One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PET One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
