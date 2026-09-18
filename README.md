@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,875 domains · **Median ask:** $32.70 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/pet`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | good.pet | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
 | fish.pet | premium   | $3,125    | —             | high           | low    | 4      | name.com                                     |
 | mum.pet  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| rise.pet | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                  |
+| wear.pet | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PET One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PET One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
