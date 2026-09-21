@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,648 domains · **Median ask:** $31.33 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/pet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| bce.pet   | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| ego.pet   | resell    | —         | —             | medium         | low    | 3      | NameSilo, LLC                                |
-| btw.pet   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
-| dvd.pet   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| see.pet   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 24                            |
-| hug.pet   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
-| gal.pet   | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| auto.pet  | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| kid.pet   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
-| llp.pet   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| core.pet  | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| law.pet   | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap                                    |
-| lxv.pet   | available | $6.98     | $35.98        | low            | low    | 3      | namecheap                                    |
-| wear.pet  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
-| east.pet  | premium   | $1,250    | $1,250        | high           | low    | 4      | name.com                                     |
-| mmr.pet   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| grand.pet | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                              |
-| fish.pet  | premium   | $3,125    | —             | high           | low    | 4      | name.com                                     |
-| mum.pet   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| pussy.pet | resell    | —         | —             | medium         | low    | 5      | NameSilo, LLC                                |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| action.pet    | available | $19.99    | —             | high           | medium | 6      | name.com                                     |
+| something.pet | available | $19.99    | —             | high           | low    | 9      | name.com                                     |
+| tough.pet     | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
+| bce.pet       | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| ego.pet       | resell    | —         | —             | medium         | low    | 3      | NameSilo, LLC                                |
+| btw.pet       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| dvd.pet       | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| see.pet       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 24                            |
+| hug.pet       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| gal.pet       | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| auto.pet      | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| kid.pet       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| jot.pet       | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| wear.pet      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
+| law.pet       | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap                                    |
+| llp.pet       | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| grand.pet     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                              |
+| east.pet      | premium   | $1,250    | $1,250        | high           | low    | 4      | name.com                                     |
+| lxv.pet       | available | $6.98     | $35.98        | low            | low    | 3      | namecheap                                    |
+| pussy.pet     | resell    | —         | —             | medium         | low    | 5      | NameSilo, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PET One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PET One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
