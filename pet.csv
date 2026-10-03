@@ -1,7 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+fbff3a48-7dce-454b-9a9c-43e0f82dc4d4,wildest.pet,available,6.41,20.9,medium,low,7,spaceship,,,02/10/2026 21:48
+4ab914a5-7975-4032-8df3-67642223492c,sprout.pet,available,6.41,20.9,high,low,6,spaceship,,,02/10/2026 06:29
 efcd8190-f939-47c0-97c9-061508c17380,spheres.pet,available,14.49,27.59,medium,low,7,namesilo,,,20/09/2026 04:06
 56a71f15-4f4d-4c68-96d0-dbbd654f0509,tocsin.pet,available,14.49,27.59,medium,low,6,namesilo,,,18/09/2026 01:57
 2e0dcdbc-3491-4cf5-8579-375ce79cbe97,anyway.pet,available,10.92,21.62,high,low,6,dynadot,,,28/09/2026 12:17
+3e6b029a-fbde-442c-8b03-e3a179356e10,penned.pet,available,13.5,,medium,low,6,unstoppable,,,02/10/2026 23:05
 dc855f5a-c651-4bdd-b727-6aebcd1d85f2,mosher.pet,available,13.5,,medium,low,6,unstoppable,,,01/10/2026 23:17
 51fc3a96-077a-45c5-9bc3-bf25c10914e3,ismail.pet,available,14.49,27.59,medium,low,6,namesilo,,,28/09/2026 11:55
 fb3f982d-3798-4fa9-9f1d-55f6fb96ff99,septenary.pet,available,6.98,35.98,medium,low,9,namecheap,,,
@@ -18,6 +21,8 @@ aa8a00ff-a0f8-43d5-96ff-239bb05bfded,conversion.pet,available,6.41,20.9,high,low
 1dbefd44-fdaa-4147-9f8e-6711d019f730,negotiate.pet,available,6.41,20.9,high,low,9,spaceship,,,30/09/2026 20:35
 410535d6-e935-4243-b51d-07ae2d1e90a2,tidal.pet,available,6.98,35.98,high,low,5,namecheap,,,11/09/2026 15:34
 cb14c6ee-9e48-4882-ae0c-01469962dac4,flavors.pet,available,10.81,21.11,medium,low,7,porkbun,,,30/09/2026 15:58
+7b4593c2-fcf4-4b1a-9b92-bd47bad9406c,hardness.pet,available,20.2,20.2,high,low,8,cloudflare,,,02/10/2026 14:31
+b7898d46-f820-49a8-a17f-ecba42e66a88,subscriptions.pet,available,6.41,20.9,medium,low,13,spaceship,,,02/10/2026 23:25
 90bf7950-a8af-4873-8870-40014013a5db,bergenia.pet,available,14.49,27.59,medium,low,8,namesilo,,,23/09/2026 09:20
 3cd804ad-c6ba-489f-be01-0c5c12e9ada0,units.pet,available,19.99,59.99,medium,low,5,name.com,,,17/09/2026 16:07
 0596a69e-0b54-482d-9c72-f9bb82bc81cb,epirus.pet,available,20.2,20.2,medium,low,6,cloudflare,,,30/09/2026 09:34
@@ -33,12 +38,15 @@ cd250a64-705a-4d9c-93e5-0995391052b3,unexpired.pet,available,6.98,35.98,medium,l
 4c0c03ea-2d1c-468d-90aa-25f1ae3d0ed6,wrapper.pet,available,6.41,20.9,high,low,7,spaceship,,,30/09/2026 01:54
 eb765b85-e0cf-499a-9630-ed249dcb3e35,staggering.pet,available,6.98,35.98,medium,low,10,namecheap,,,10/09/2026 18:08
 e4c794ff-9698-4c7b-830c-480d0a1edb1f,niche.pet,available,14.49,27.59,high,low,5,namesilo,,,30/09/2026 17:07
+735fdc87-7709-409d-a4bb-dec69d50f63f,boc.pet,available,10.81,21.11,high,low,3,porkbun,,,03/10/2026 04:08
 42aa12d9-bc07-436c-9ac4-ae3740ca0cdb,sahara.pet,available,6.41,20.9,high,low,6,spaceship,,,29/09/2026 20:15
 d6eb0caf-0c5a-40eb-a407-f9c67abd03df,vitamin.pet,premium,3250,3250,high,low,7,namecheap,,,08/09/2026 14:16
 208d3b11-162a-4633-ae57-617cc2ccfbd9,achira.pet,available,14.49,27.59,medium,low,6,namesilo,,,17/09/2026 00:42
 5e107562-60b5-42ec-a287-d33ca0ae6b21,intrepid.pet,available,14.49,27.59,high,low,8,namesilo,,,22/09/2026 12:24
 237199cb-da34-469b-aa84-7825a55af741,selma.pet,available,6.41,20.9,high,low,5,spaceship,,,28/09/2026 03:04
 79729403-8dd9-43e3-8ba4-bd6041a10cb0,ali.pet,resell,,,high,high,3,"Spaceship, Inc.",25/03/2021 14:30,25/03/2027 14:30,26/09/2026 03:47
+8cd10785-fdb2-4c39-86d9-2e630946c7ad,omitted.pet,available,10.81,21.11,low,low,7,porkbun,,,02/10/2026 21:15
+5120c408-869a-4fc8-b779-36a0a11e7ad5,natalya.pet,available,6.98,35.98,medium,low,7,namecheap,,,03/10/2026 06:03
 1b37ccb9-8019-4a46-81c0-cad7975477b7,impeccably.pet,available,6.98,35.98,medium,low,10,namecheap,,,15/09/2026 02:11
 e5426429-43ec-4325-a509-b55d0a4a6506,strengths.pet,available,14.49,27.59,medium,low,9,namesilo,,,18/09/2026 22:25
 5030bfcd-269a-41bf-a70a-be870f5bc0d5,zachary.pet,available,14.49,27.59,high,low,7,namesilo,,,28/09/2026 11:58
@@ -55,15 +63,19 @@ c194d9ac-748f-4fc4-b144-ada08272f313,canonical.pet,available,6.98,35.98,high,low
 25592efc-fa8e-4959-a4f4-689823505d31,hahaha.pet,available,6.41,20.9,high,low,6,spaceship,,,01/10/2026 22:02
 632cf0ce-4942-4fb8-8772-5864b2837fa1,whim.pet,available,14.49,27.59,high,low,4,namesilo,,,24/09/2026 12:39
 6ddf00d1-9a11-4f67-8b2d-ae7094dc121b,brains.pet,available,14.49,27.59,high,low,6,namesilo,,,25/09/2026 18:40
-c55b330f-b48b-4ee2-a363-501fcdc73d67,principles.pet,available,19.99,,high,low,10,name.com,,,
+4078cd7f-1f40-45c4-bb27-a4b25de95cad,ebro.pet,available,14.49,27.59,medium,low,4,namesilo,,,03/10/2026 00:33
+c55b330f-b48b-4ee2-a363-501fcdc73d67,principles.pet,available,14.49,27.59,high,low,10,namesilo,,,03/10/2026 04:22
 006e5996-6ed3-454c-8a1f-a0a241cc57a4,nevis.pet,available,13.5,,high,low,5,unstoppable,,,29/09/2026 07:42
 2a7418f4-79c6-4383-88ff-b6445d2ef936,abort.pet,available,14.49,27.59,high,low,5,namesilo,,,16/09/2026 16:38
 2f159be7-b71d-448d-8e87-697894a44a2c,switched.pet,available,14.49,27.59,medium,low,8,namesilo,,,27/09/2026 09:43
 88ed5ae0-3f90-4503-b6e7-6f96bf07c1cd,boxlike.pet,available,6.98,35.98,medium,low,7,namecheap,,,10/08/2026 23:56
 4af7003d-59ba-40e3-b73c-fe3b2f7fb9e4,stevens.pet,available,14.49,27.59,high,low,7,namesilo,,,25/09/2026 06:30
+fcb57643-27cc-4123-a2ea-c3531d94ac95,hypocritical.pet,available,14.49,27.59,medium,low,12,namesilo,,,02/10/2026 17:38
 b9abfc9c-d796-4cb4-abc4-c26cfbaf6af8,tahiti.pet,available,13.5,,high,low,6,unstoppable,,,29/09/2026 20:28
+44477d7a-556d-4a8b-a0d5-37276e47630c,discrepancy.pet,available,10.92,21.62,medium,low,11,dynadot,,,02/10/2026 11:57
 3885f2a6-5168-4f57-b4d3-6c9504b09d55,onager.pet,available,14.49,27.59,medium,low,6,namesilo,,,20/09/2026 00:38
 f4353ee2-6725-4ea8-be9f-282a38ca09e7,babies.pet,premium,1107,1107,high,low,6,namesilo,,,
+c0a514a5-85ab-4a1e-ab91-24e7dc0f2fd7,commuting.pet,available,10.92,21.62,high,low,9,dynadot,,,03/10/2026 00:04
 10c9c5f5-d373-4365-9b54-786b655ffd6e,saloons.pet,available,14.49,27.59,medium,low,7,namesilo,,,19/09/2026 22:32
 b3980e19-99a0-4c02-af82-9eccae39b4b6,gall.pet,available,14.49,27.59,medium,low,4,namesilo,,,23/09/2026 15:42
 91821cf0-b4e5-46df-9bb8-e57a8c25e8a5,cuboid.pet,available,6.98,35.98,medium,low,6,namecheap,,,13/08/2026 09:58
@@ -115,8 +127,9 @@ f342d155-5995-495b-b8be-dd515bd3ad03,amicably.pet,available,6.98,35.98,medium,lo
 a72e19cf-4a7c-4018-a840-60d65ea1b7f8,ethyne.pet,available,14.49,27.59,medium,low,6,namesilo,,,17/09/2026 00:23
 26aedbe7-819c-48b0-a611-8c41d0196143,superb.pet,available,6.98,35.98,high,low,6,namecheap,,,23/09/2026 09:28
 41c2397f-5736-4a81-b520-7526d7b551e0,bedewed.pet,available,6.98,35.98,low,low,7,namecheap,,,09/08/2026 06:46
-a6a90d1a-0c84-4f92-ab9a-d32c9694f1f2,died.pet,available,19.99,,low,low,4,name.com,,,
+a6a90d1a-0c84-4f92-ab9a-d32c9694f1f2,died.pet,available,6.41,20.9,low,low,4,spaceship,,,03/10/2026 01:51
 4ca93c0c-2250-490f-b46a-a8137c0b2ab1,snarl.pet,available,6.98,35.98,medium,low,5,namecheap,,,24/08/2026 16:56
+5bf6acb3-590c-4554-a349-205f4479d689,montefiore.pet,available,6.41,20.9,medium,low,10,spaceship,,,02/10/2026 20:32
 6bb9f479-947b-413c-bde2-c97316492944,tangent.pet,available,13.5,,high,low,7,unstoppable,,,01/10/2026 04:00
 4e34dcae-b021-4c88-8881-7b49e438887a,effects.pet,available,6.98,35.98,high,low,7,namecheap,,,27/09/2026 03:49
 5a1cbb23-55e6-4f71-9ae4-c0d7b5649f57,spotlessly.pet,available,14.49,27.59,medium,low,10,namesilo,,,16/09/2026 06:37
@@ -124,8 +137,9 @@ a6a90d1a-0c84-4f92-ab9a-d32c9694f1f2,died.pet,available,19.99,,low,low,4,name.co
 19efb3bf-c852-44a2-832c-383971ef0974,koch.pet,available,6.98,35.98,high,low,4,namecheap,,,25/09/2026 08:52
 4d178e06-775e-4335-b27a-48f147822b65,endured.pet,available,6.41,20.9,medium,low,7,spaceship,,,29/09/2026 23:57
 dd4e3a15-afed-46b0-8832-d939e061b486,mansions.pet,available,6.98,35.98,medium,low,8,namecheap,,,01/10/2026 17:28
-d337a7ba-47e4-4891-958b-d4914c51cf41,progression.pet,available,19.99,,high,low,11,name.com,,,
-15cdc920-1608-41e4-a534-e440c4fb49dd,accountancy.pet,available,19.99,,medium,low,11,name.com,,,
+d337a7ba-47e4-4891-958b-d4914c51cf41,progression.pet,available,14.49,27.59,high,low,11,namesilo,,,02/10/2026 17:07
+15cdc920-1608-41e4-a534-e440c4fb49dd,accountancy.pet,available,6.41,20.9,high,low,11,spaceship,,,02/10/2026 14:53
+b7755734-fa32-4fba-8b19-d5440cfd4b29,shute.pet,available,6.41,20.9,medium,low,5,spaceship,,,02/10/2026 16:11
 f174a3b7-e729-44a8-a701-9996c3ce08df,mindy.pet,available,6.41,20.9,medium,low,5,spaceship,,,01/10/2026 23:57
 88539e82-1ab9-4f68-acc3-b461b5009f33,factorial.pet,available,6.98,35.98,high,low,9,namecheap,,,17/08/2026 20:29
 87898d5a-211a-4d3f-b204-0851fef76ac3,belike.pet,available,6.98,35.98,medium,low,7,namecheap,,,04/09/2026 04:45
@@ -163,7 +177,7 @@ a60e1d3e-4394-4e10-8d4f-d7cd04cf311c,itc.pet,available,13.5,,high,low,3,unstoppa
 31f33088-f96c-4811-8420-1f5351f23290,butterfly.pet,available,10.81,21.11,high,low,9,porkbun,,,29/09/2026 05:34
 2e5fc5c6-d0d2-4cc4-a745-a72a8af34ba0,hepworth.pet,available,6.98,35.98,medium,low,8,namecheap,,,22/09/2026 04:23
 08ed9cc9-9039-481a-b7df-9b030b888d1a,caldwell.pet,available,14.49,27.59,medium,low,8,namesilo,,,25/09/2026 03:55
-f49be56b-67f4-41c4-bda2-3694ca8e55d1,stamp.pet,available,14.49,27.59,high,low,5,namesilo,,,23/09/2026 01:04
+f49be56b-67f4-41c4-bda2-3694ca8e55d1,stamp.pet,available,14.49,27.59,high,low,5,namesilo,,,03/10/2026 02:33
 34237c6b-b5b9-4c83-8379-cd32dd244d8a,desktops.pet,available,14.49,27.59,medium,low,8,namesilo,,,20/09/2026 12:27
 d8cbd165-32cd-42e9-9793-1af97a01a23e,detectives.pet,available,14.49,27.59,medium,low,10,namesilo,,,28/09/2026 05:09
 739e8591-f444-4783-a2f4-998741b99237,pushes.pet,available,6.98,35.98,low,low,6,namecheap,,,29/09/2026 06:04
@@ -172,9 +186,12 @@ d8cbd165-32cd-42e9-9793-1af97a01a23e,detectives.pet,available,14.49,27.59,medium
 e5ae08dc-1016-4d6e-a737-d8cf2f3153c0,blackseed.pet,available,14.49,27.59,medium,low,9,namesilo,,,24/09/2026 03:00
 379ca3c5-7f45-4a39-88ec-ebfabc197ef9,indocile.pet,available,6.98,35.98,medium,low,8,namecheap,,,22/08/2026 03:18
 319d3230-99b5-45b7-afdb-06ba41e5f8f0,hun.pet,available,6.98,35.98,high,low,3,namecheap,,,30/09/2026 16:28
+f305813f-11ef-4283-bf1b-ffc54f598781,tasso.pet,available,20.2,20.2,medium,low,5,cloudflare,,,02/10/2026 16:55
 2556575a-9ee8-4f3c-9906-aa1bf7564bef,aft.pet,available,6.98,35.98,high,low,3,namecheap,,,
 fee55096-c391-4ac2-abdf-74264fcb82ad,vicenza.pet,available,6.41,20.9,medium,low,7,spaceship,,,01/10/2026 07:48
+19ebaa3d-cba7-48a8-adfe-380e6a5f31c1,declarative.pet,available,6.41,20.9,high,low,11,spaceship,,,02/10/2026 18:26
 409418c4-0cb6-4af6-8057-7eb7565d23b1,tendon.pet,available,13.5,,high,low,6,unstoppable,,,01/10/2026 21:42
+d1758163-ea8c-4284-9daf-4d7684b12672,palacios.pet,available,6.41,20.9,medium,low,8,spaceship,,,02/10/2026 20:39
 b509db1d-0e9e-4568-9248-e145f3a0929c,broccoli.pet,available,6.41,20.9,high,low,8,spaceship,,,29/09/2026 04:00
 04400c66-49b8-4e54-88cc-3f4a874dd5e9,usable.pet,available,6.98,35.98,high,low,6,namecheap,,,12/09/2026 23:59
 fe9ab2ba-c40b-47e1-bb08-39125069cf7b,hampstead.pet,available,13.5,,medium,low,9,unstoppable,,,29/09/2026 03:36
@@ -186,6 +203,7 @@ d3473a31-0b16-4934-91ff-259b2a10e963,delineated.pet,available,6.98,35.98,medium,
 bbd21bb7-6e1a-4aed-bc8a-a23c55160199,funerals.pet,available,20.2,20.2,medium,low,8,cloudflare,,,29/09/2026 17:32
 411c01ef-c823-47ce-ba9b-a5be1b5f19bb,lard.pet,available,13.5,,high,low,4,unstoppable,,,30/09/2026 17:51
 2b8cd0b9-ebfd-402e-9d11-4d3d6114870c,lsa.pet,available,14.49,27.59,medium,low,3,namesilo,,,01/10/2026 18:39
+0e8e0bec-b90e-46c3-8428-bdeaf8ca10df,mpeg.pet,available,6.41,20.9,high,low,4,spaceship,,,03/10/2026 01:39
 f3c33f7f-b9e7-42a0-88d6-a8e42c341df7,ryukyu.pet,available,6.41,20.9,medium,low,6,spaceship,,,30/09/2026 21:22
 c0c62bff-ffbd-4b39-a17e-1b5c170d288a,unspoiled.pet,available,6.98,35.98,medium,low,9,namecheap,,,12/09/2026 07:08
 c3e3452e-b6f6-432a-a327-05848ed0c11b,splendor.pet,available,14.49,27.59,high,low,8,namesilo,,,30/09/2026 08:50
@@ -194,9 +212,11 @@ c3e3452e-b6f6-432a-a327-05848ed0c11b,splendor.pet,available,14.49,27.59,high,low
 11c7708a-988f-4081-820b-d7fb41afb18d,jensen.pet,available,6.98,35.98,high,low,6,namecheap,,,25/09/2026 07:58
 55118f20-2f3e-4191-9e86-5647a05ad01f,approaches.pet,available,14.49,27.59,high,low,10,namesilo,,,01/10/2026 16:38
 c2e91960-8062-4d0a-a6da-86b89a01345b,masturbation.pet,available,6.98,35.98,medium,low,12,namecheap,,,30/09/2026 14:21
+180d0a1d-d25f-4a67-a2b8-0c0a46ee518b,starling.pet,available,14.49,27.59,high,low,8,namesilo,,,02/10/2026 16:51
 7ae760c0-2191-4f9e-9677-7bf31a220d5d,fungi.pet,available,20.2,20.2,high,low,5,cloudflare,,,01/10/2026 19:40
 06d78c9d-f563-4804-940b-159654b533e6,tike.pet,available,6.98,35.98,medium,low,4,namecheap,,,25/08/2026 00:12
 5f666cdb-5276-4b9d-bb70-e2f580f57b4c,changing.pet,available,14.49,27.59,high,low,8,namesilo,,,23/09/2026 13:46
+1dda8e80-036e-4fab-ba43-0fe2d29167c1,graphs.pet,available,6.41,20.9,medium,low,6,spaceship,,,02/10/2026 23:01
 900a482f-7429-4891-afc6-7786851657af,fixing.pet,available,14.49,27.59,high,low,6,namesilo,,,18/09/2026 14:47
 801db36a-1367-46ed-a72c-34b746080a30,idempotent.pet,available,6.98,35.98,medium,low,10,namecheap,,,21/08/2026 18:03
 5ac5a525-8d39-4880-9e9b-da842b5f1d2c,economics.pet,available,20.2,20.2,high,low,9,cloudflare,,,28/09/2026 19:02
@@ -235,6 +255,7 @@ a9fd625b-ee94-414c-94b9-db73e5279128,ccd.pet,available,13.5,,high,low,3,unstoppa
 e98c990d-d84f-47d6-9bec-58783da2ab5f,normale.pet,available,14.49,27.59,high,low,7,namesilo,,,01/10/2026 22:29
 71db7ce7-f15e-4224-9101-60259724284b,lichfield.pet,available,6.98,35.98,medium,low,9,namecheap,,,30/09/2026 12:48
 a75c83e5-7a15-4b87-ad4c-9920f1dd34a3,totemic.pet,available,6.98,35.98,medium,low,7,namecheap,,,11/09/2026 18:10
+04848e9c-da7a-41d3-b43e-72cd99221c07,vocals.pet,available,13.5,,high,low,6,unstoppable,,,02/10/2026 21:22
 3d6d77d6-dd28-44a4-b1e6-4a6f2630457c,clearly.pet,available,6.98,35.98,high,low,7,namecheap,,,28/09/2026 13:55
 8f447769-89b1-44bc-bdcc-4bd6b8383c72,embodiment.pet,available,14.49,27.59,high,low,10,namesilo,,,21/09/2026 08:48
 f7eeb747-6f79-460b-9441-48a9ca6b89d7,lenny.pet,available,13.5,,medium,low,5,unstoppable,,,28/09/2026 18:21
@@ -258,10 +279,12 @@ b6690fba-b017-4cc7-94db-a54844b82e3e,resinous.pet,available,6.98,35.98,medium,lo
 4279a87e-cf6e-4acf-8c25-9d5a29102033,bangla.pet,available,14.49,27.59,high,low,6,namesilo,,,22/09/2026 01:51
 4603d023-3229-44d6-bf6b-0982fd4200a2,idris.pet,available,6.41,20.9,medium,low,5,spaceship,,,01/10/2026 12:13
 901eabe1-a32d-40d5-a599-385bcc9771af,referable.pet,available,6.98,35.98,medium,low,9,namecheap,,,07/08/2026 01:28
+73242960-da9c-4319-897a-1743b1cc6833,searcy.pet,available,14.49,27.59,medium,low,6,namesilo,,,03/10/2026 04:15
 46a8313d-3fb1-4540-982c-a3f07b4f672c,chichester.pet,available,10.92,21.62,medium,low,10,dynadot,,,28/09/2026 03:33
 b3b77976-d60e-45a9-989d-b0118c8788b4,deteriorating.pet,available,13.5,,medium,low,13,unstoppable,,,29/09/2026 20:55
 5e8dd527-b379-4604-a9f8-e81683c4ed30,thirst.pet,available,6.41,20.9,high,low,6,spaceship,,,28/09/2026 19:46
 00a825bf-cc4f-471b-b920-a625643fa053,smoggy.pet,available,6.98,35.98,medium,low,6,namecheap,,,10/09/2026 11:52
+b28eae7c-eea0-4a7b-846e-259b45e77358,aew.pet,available,6.41,20.9,high,low,3,spaceship,,,02/10/2026 20:53
 8faa5593-47c5-4647-9f2b-36e677b24b81,concerted.pet,available,6.98,35.98,high,low,9,namecheap,,,12/08/2026 20:06
 89b676a6-c1cc-45dc-a467-c77051ed1e54,disjointed.pet,available,6.98,35.98,medium,low,10,namecheap,,,14/08/2026 11:16
 e4c837e2-1382-493b-bea9-4fb5ad7a0972,juana.pet,available,6.41,20.9,medium,low,5,spaceship,,,29/09/2026 09:44
@@ -276,6 +299,7 @@ f90e1adf-c67d-4cf7-a638-6dba7a4781a6,unimposing.pet,available,6.98,35.98,medium,
 985e46cb-fa60-4d20-9062-8ddb9fb3b387,degrees.pet,available,14.49,27.59,medium,low,7,namesilo,,,25/09/2026 17:04
 f9ddde0e-6b49-4948-8e88-a40e192e7188,knopf.pet,available,6.41,20.9,medium,low,5,spaceship,,,29/09/2026 11:20
 ba5edfe7-90e2-4175-b8a9-ee532d707b9f,hirsute.pet,available,6.98,35.98,high,low,7,namecheap,,,20/08/2026 22:11
+83cdb5e7-a637-4903-ac70-5c47fa6fbf94,spawned.pet,available,13.5,,medium,low,7,unstoppable,,,02/10/2026 14:09
 19a7d89a-f9d8-4140-80d3-4c3dffd3ecc6,astilbe.pet,available,14.49,27.59,medium,low,7,namesilo,,,20/09/2026 17:26
 c66d252e-fabb-431a-9add-b74ff7d0c69b,lingerie.pet,available,10.81,21.11,high,low,8,porkbun,,,02/10/2026 05:26
 fc16e6a2-7b43-4d87-aff4-7b23db26236f,condition.pet,resell,,,high,low,9,OVH SAS,23/02/2016 18:28,23/02/2027 18:28,29/09/2026 10:38
@@ -321,6 +345,7 @@ f2eb9334-278a-4471-badd-4a141fc8b196,ellicott.pet,available,14.49,27.59,medium,l
 51db14ed-ecf7-463b-ae86-d8a9ac0ae57a,allied.pet,available,14.49,27.59,high,low,6,namesilo,,,22/09/2026 01:28
 9f6cd221-c04a-4c4f-a2d0-6929a7acb71b,chung.pet,available,14.49,27.59,medium,low,5,namesilo,,,28/09/2026 16:45
 2aa33ede-87ae-4843-b5cc-60b66cfc4f68,anamnesis.pet,available,14.49,27.59,medium,low,9,namesilo,,,19/09/2026 02:01
+4e5a82a4-4cb3-4dc2-acab-32f8cb6dde56,meats.pet,available,14.49,27.59,medium,low,5,namesilo,,,02/10/2026 12:18
 9e04cc49-7bb6-444d-bf1e-48f577fde5f1,spice.pet,available,6.41,20.9,high,low,5,spaceship,,,30/09/2026 11:40
 0a399c5d-4d04-4469-ad19-6cf53f3166b7,tribes.pet,available,20.2,20.2,high,low,6,cloudflare,,,29/09/2026 11:09
 8d7526cd-dbc9-465c-a48c-9d218dd25cc7,houses.pet,premium,3250,3250,high,low,6,namecheap,,,17/09/2026 21:10
@@ -332,6 +357,7 @@ fb1d016c-0822-42f6-af76-99cd5f97647d,influence.pet,resell,,,high,low,9,"GoDaddy.
 a832d022-4184-405c-91a9-15f2342c8a6b,scanners.pet,available,14.49,27.59,medium,low,8,namesilo,,,19/09/2026 22:09
 b79c325e-ec2f-4abe-906f-e5777a01b36f,assets.pet,available,14.49,27.59,high,low,6,namesilo,,,20/09/2026 16:21
 80fec263-6d31-4ada-a6b9-586f401f6af1,festive.pet,available,6.98,35.98,high,low,7,namecheap,,,18/08/2026 02:14
+6ed1703b-5d5f-4ccc-9922-00285ead190d,oca.pet,available,14.49,27.59,high,low,3,namesilo,,,02/10/2026 16:14
 42df11ca-2714-4f03-866f-4186bc49deef,vaux.pet,available,6.98,35.98,high,low,4,namecheap,,,01/10/2026 01:15
 bb4c7ed1-9b45-4661-8253-50de1ed54c96,qualifier.pet,available,13.5,,high,low,9,unstoppable,,,30/09/2026 04:52
 e7458a61-5d8a-4c28-b3d5-8b90569aab5d,skeleton.pet,available,20.2,20.2,high,low,8,cloudflare,,,28/09/2026 10:56
@@ -346,10 +372,12 @@ ac72300a-3b55-475c-8aff-758103755f2e,lenticular.pet,available,6.98,35.98,high,lo
 abc1addf-36dd-46f7-9e99-1244455ea8fe,rente.pet,available,6.98,35.98,medium,low,5,namecheap,,,19/09/2026 10:58
 59ca3522-704c-405c-b338-70657c5bfc06,commands.pet,available,6.41,20.9,medium,low,8,spaceship,,,28/09/2026 17:45
 531d055b-e1d3-438c-9bf2-63dd3241ff8c,ochreous.pet,available,10.81,21.11,medium,low,8,porkbun,,,01/10/2026 23:27
+9405b221-ad04-4881-8910-a63ba5440939,reduces.pet,available,14.49,27.59,medium,low,7,namesilo,,,02/10/2026 13:41
 3f7932c9-3cfc-4853-b21f-21dcbc55658c,unbridled.pet,available,6.98,35.98,high,low,9,namecheap,,,12/09/2026 04:31
 330a61bd-7fad-4865-807a-5720e68c2569,ives.pet,available,14.49,27.59,high,low,4,namesilo,,,25/09/2026 22:11
 53422af0-f8d0-4ba5-b2bb-7bc118b485ae,outside.pet,available,14.49,27.59,high,low,7,namesilo,,,21/09/2026 23:49
 1644ac50-f2ce-402c-a6c4-4c319097f2e6,temperance.pet,available,6.98,35.98,high,low,10,namecheap,,,30/09/2026 18:54
+c7f0d9cb-8f80-474f-b052-61c1b88a9345,consolidation.pet,available,14.49,27.59,medium,low,13,namesilo,,,02/10/2026 08:12
 cf2b2220-8442-454e-bb07-8d4dba0d2eea,bezel.pet,available,19.99,59.99,medium,low,5,name.com,,,23/09/2026 12:19
 744cd3b9-e1a0-4eba-919e-17f18ba11d93,lumbar.pet,available,6.98,35.98,high,low,6,namecheap,,,24/08/2026 11:06
 ac64ee08-ba66-47c6-bfef-c49df10f936d,clause.pet,available,14.49,27.59,high,low,6,namesilo,,,24/09/2026 15:20
@@ -368,6 +396,7 @@ cde0de5f-0b3d-47b0-8a0d-61b5e6fabf3c,inch.pet,available,14.49,27.59,high,low,4,n
 349bace2-961f-46a2-8096-a1237a103bc9,birthmark.pet,available,6.98,35.98,medium,low,9,namecheap,,,23/09/2026 21:13
 88d82fb4-ec6d-4baf-8114-7c174e7799cb,inboard.pet,available,6.98,35.98,medium,low,7,namecheap,,,22/08/2026 00:39
 ef198d1d-9a71-4c33-9b26-11e08140ab2c,succinct.pet,available,14.49,27.59,high,low,8,namesilo,,,23/09/2026 17:07
+32408168-5bba-4862-85d1-6c5adb1db4f3,petre.pet,available,6.98,35.98,high,low,5,namecheap,,,02/10/2026 20:12
 fca4c55f-a57d-4bd3-b3d8-f60fd5c6d81c,suing.pet,available,13.5,,medium,low,5,unstoppable,,,02/10/2026 03:47
 85bb12bb-4427-468c-9092-90271daa53c4,before.pet,available,6.98,35.98,high,low,6,namecheap,,,21/09/2026 23:34
 795484af-23a7-439a-85fe-ef98e5c06982,ruckle.pet,available,6.98,35.98,medium,low,6,namecheap,,,13/08/2026 07:12
@@ -375,12 +404,14 @@ fca4c55f-a57d-4bd3-b3d8-f60fd5c6d81c,suing.pet,available,13.5,,medium,low,5,unst
 22d77a7d-15fc-421a-80b4-1ed634c5506c,sold.pet,available,10.81,21.11,high,low,4,porkbun,,,27/09/2026 23:38
 549ba562-a237-4e31-a173-bd59f4c50049,hume.pet,available,14.49,27.59,high,low,4,namesilo,,,25/09/2026 04:46
 0b6d2de2-a9c8-4480-a4c8-dfb320350288,lenape.pet,available,6.41,20.9,medium,low,6,spaceship,,,02/10/2026 00:23
+1160c722-f3c5-4d17-935c-a102fd545d8d,glenda.pet,available,14.49,27.59,high,low,6,namesilo,,,02/10/2026 09:10
 d02e474b-c73f-4c38-b015-ce72ef34a063,syncretic.pet,available,6.98,35.98,medium,low,9,namecheap,,,11/09/2026 06:21
 6fb85679-fa31-4a3a-ae1e-baeb880bb5f2,cowardly.pet,available,6.98,35.98,medium,low,8,namecheap,,,13/08/2026 04:07
 a2a85079-3ddc-4430-b085-17a287ed8f33,unit.pet,available,6.98,35.98,high,low,4,namecheap,,,08/09/2026 06:04
 e3b63d78-424e-4d21-b514-3624fe576228,hangover.pet,available,10.92,21.62,high,low,9,dynadot,,,30/09/2026 01:50
 2a610108-17c9-448c-aa01-4709c423e763,clink.pet,available,6.98,35.98,medium,low,5,namecheap,,,08/09/2026 22:47
 b08a68c4-6538-4911-8194-029931cb1b93,alzheimers.pet,available,14.49,27.59,medium,low,10,namesilo,,,18/09/2026 15:29
+d463c10f-d7d8-4df7-b339-b5481814685f,luang.pet,available,10.92,21.62,medium,low,5,dynadot,,,02/10/2026 21:01
 a58fa087-34de-4bc1-bd24-c0d3d05eef5d,meshugga.pet,available,6.98,35.98,low,low,8,namecheap,,,24/08/2026 21:04
 9b4cba7d-6946-43a2-9957-2302263acb3c,englewood.pet,available,20.2,20.2,medium,low,9,cloudflare,,,28/09/2026 16:54
 24cf3e22-206b-4b9b-9f0a-9d48c75d9b2e,abdullah.pet,available,14.49,27.59,high,low,8,namesilo,,,28/09/2026 03:48
@@ -388,14 +419,16 @@ a58fa087-34de-4bc1-bd24-c0d3d05eef5d,meshugga.pet,available,6.98,35.98,low,low,8
 bd340a29-c239-45f8-b180-b079dd8cd629,exhibited.pet,available,13.5,,medium,low,9,unstoppable,,,30/09/2026 15:15
 210b2993-5f65-4876-be65-839e68a29072,unhappy.pet,available,14.49,27.59,high,low,7,namesilo,,,24/09/2026 12:43
 614cbbb6-49b0-4841-8513-599893ca409f,spillover.pet,available,14.49,27.59,medium,low,10,namesilo,,,16/09/2026 17:36
+2a1b2cf9-77dc-4b15-81aa-1ff5bd715232,warns.pet,available,10.92,21.62,low,low,5,dynadot,,,02/10/2026 23:30
 b2e8b61b-2a75-4d1c-bf14-c9db108ab510,composers.pet,available,13.5,,medium,low,9,unstoppable,,,02/10/2026 02:41
 df28443b-a9cc-483a-81ae-0e73eda3ef00,temptation.pet,available,10.92,21.62,high,low,10,dynadot,,,28/09/2026 09:41
 2391fe16-8829-41ab-93fd-ab22b5dedfab,merit.pet,available,10.81,21.11,high,low,5,porkbun,,,29/09/2026 14:06
 0027f96c-b237-4d1b-a03a-26fded04665f,perforated.pet,available,6.98,35.98,high,low,10,namecheap,,,08/09/2026 16:52
 019b4bf4-1926-458b-b26c-49315861d1ed,skopje.pet,available,14.49,27.59,high,low,6,namesilo,,,30/09/2026 18:39
-0a6fe17b-8e94-4217-8917-8142b8e578b2,practiced.pet,available,14.49,27.59,high,low,9,namesilo,,,29/09/2026 02:32
+0a6fe17b-8e94-4217-8917-8142b8e578b2,practiced.pet,available,14.49,27.59,high,low,9,namesilo,,,03/10/2026 05:26
 1579bf6e-bd78-4809-ad47-706712d81d6c,grandfather.pet,available,14.49,27.59,high,low,11,namesilo,,,30/09/2026 22:05
 d7273437-2592-4c45-957a-d3dbb0096e26,dove.pet,available,6.98,35.98,high,low,4,namecheap,,,10/09/2026 17:16
+5d08fad6-4936-4e83-9df4-80b2e0cc58b2,swabian.pet,available,10.92,21.62,high,low,7,dynadot,,,03/10/2026 03:45
 f5a15081-f00e-42d6-94b0-843f9a88a7e0,dazzlingly.pet,available,6.98,35.98,medium,low,10,namecheap,,,14/09/2026 10:58
 f33d4ecd-e0b8-49d6-a916-aa0d5071ddf9,conjoin.pet,available,6.98,35.98,high,low,7,namecheap,,,13/09/2026 09:37
 b72392b2-8dc9-43f4-b655-38fb40839c63,adventism.pet,available,6.98,35.98,medium,low,9,namecheap,,,17/09/2026 10:32
@@ -403,10 +436,12 @@ b72392b2-8dc9-43f4-b655-38fb40839c63,adventism.pet,available,6.98,35.98,medium,l
 9b44b3dd-55b9-4e24-937e-31264d102b2d,ponders.pet,available,6.98,35.98,medium,low,7,namecheap,,,18/09/2026 02:06
 db3f74e3-54ab-4acf-b463-a8751bdf4a8e,formal.pet,available,14.49,27.59,high,low,6,namesilo,,,24/09/2026 00:47
 349268e6-0210-4c73-8aac-f591b2375f26,sculptures.pet,available,20.2,20.2,medium,low,10,cloudflare,,,01/10/2026 17:59
+690ece73-6b4e-4abb-9b08-65086884899f,tigre.pet,available,14.49,27.59,high,low,5,namesilo,,,02/10/2026 17:18
 861e69d1-7649-42ba-9746-7747627910b2,pantheist.pet,available,6.98,35.98,medium,low,9,namecheap,,,05/09/2026 01:06
 e817ecdd-e874-4f8d-be25-5ecac8d6d1d1,wehrmacht.pet,available,20.2,20.2,medium,low,9,cloudflare,,,28/09/2026 16:22
 6386d358-0007-4f45-bc4e-5c4af75ad0b4,warhol.pet,available,14.49,27.59,high,low,6,namesilo,,,19/09/2026 05:06
 63af55e6-5039-42db-9760-cd3710c5a26c,squanderer.pet,available,6.98,35.98,medium,low,10,namecheap,,,09/09/2026 02:39
+430f233a-f75e-4260-a451-219bf5f1db9b,rooting.pet,available,6.41,20.9,high,low,7,spaceship,,,02/10/2026 06:17
 fcb5ef15-94ac-4d65-a7f7-c112198f8d6c,assayer.pet,available,14.49,27.59,medium,low,7,namesilo,,,20/09/2026 15:59
 83ad59eb-009d-44c1-987f-636417a1cb02,amalgamate.pet,available,14.49,27.59,high,low,10,namesilo,,,22/09/2026 03:01
 bd86143b-d7d4-42fa-ba9e-2ccd2bc1d402,hitler.pet,available,14.49,27.59,high,low,6,namesilo,,,17/09/2026 09:31
@@ -419,10 +454,12 @@ db7f8e6f-4282-4cf5-b0bc-536563aa6377,bendable.pet,available,6.98,35.98,medium,lo
 1cd39524-ca0f-43c4-9459-f354e2554a0b,bmt.pet,available,10.92,21.62,high,low,3,dynadot,,,30/09/2026 20:59
 36fc1c56-5db1-429f-8e86-119b48014993,uxorious.pet,available,6.98,35.98,medium,low,8,namecheap,,,13/09/2026 00:33
 68279c19-4851-4f65-ae92-83e8995206c4,watertight.pet,available,6.98,35.98,high,low,10,namecheap,,,11/08/2026 08:34
+caf92b4e-250f-47f1-ac6e-1e1a8a54a91e,birthdays.pet,available,14.49,27.59,medium,low,9,namesilo,,,02/10/2026 22:50
 6734896f-b42c-45a3-b119-aa5a43ba16ca,ailurus.pet,available,6.98,35.98,high,low,7,namecheap,,,17/09/2026 21:19
 f3c58e57-8c6c-4e8e-9bf4-a7d216a6592b,advantage.pet,available,6.41,20.9,high,low,9,spaceship,,,28/09/2026 18:56
 fc704872-17e1-48f1-8ca2-1c92a453e11c,esteemed.pet,available,6.98,35.98,high,low,8,namecheap,,,17/08/2026 13:23
 4460d508-34fd-48e7-972d-4ab542939837,residue.pet,available,6.98,35.98,high,low,7,namecheap,,,09/09/2026 15:05
+e3f473ac-3fc8-4d05-943e-f37544e7a649,generalist.pet,available,20.2,20.2,high,low,10,cloudflare,,,02/10/2026 15:27
 71cee535-bdfe-4d13-b86d-8a8e74aa9e8d,shambles.pet,available,14.49,27.59,medium,low,8,namesilo,,,16/09/2026 14:17
 ff830792-f374-48ee-bbf7-14326ad60287,swords.pet,available,19.99,,medium,low,6,name.com,,,
 51bb80d5-447e-4a83-88d9-671d968cc661,fiery.pet,available,6.98,35.98,high,low,5,namecheap,,,06/08/2026 16:24
@@ -434,6 +471,7 @@ ea7822e5-d6dd-42c3-88d3-689185a42f4c,cxl.pet,available,,,high,low,3,,,,
 eb218875-d9db-4dcc-a170-661e876c8e98,faction.pet,available,13.5,,high,low,7,unstoppable,,,30/09/2026 08:52
 4be33da5-56ee-41ec-bbd1-a49d2e9820fc,cleanliness.pet,available,14.49,27.59,high,low,11,namesilo,,,02/10/2026 02:07
 98b61879-2a12-49aa-9f37-c891a02d6fbf,interred.pet,available,6.98,35.98,medium,low,8,namecheap,,,11/08/2026 10:36
+e93676f7-37d3-46d3-845f-abfc400aaaec,jodi.pet,available,6.41,20.9,high,low,4,spaceship,,,02/10/2026 07:32
 d4aeeae8-00af-4272-b351-165e5f10deea,cultures.pet,available,10.92,21.62,medium,low,8,dynadot,,,28/09/2026 23:32
 ffa214e4-9fd0-4675-b372-2468eaa840c4,knocks.pet,available,14.49,27.59,medium,low,6,namesilo,,,20/09/2026 13:49
 915d72d9-1838-43d3-8f51-6ecaa6cb2504,hull.pet,available,20.2,20.2,high,low,4,cloudflare,,,28/09/2026 01:42
@@ -448,6 +486,7 @@ e9975b73-868f-4591-8f32-2bae618fd4f3,visualise.pet,available,14.49,27.59,high,lo
 a00d53a5-d6cd-4c6c-92a3-a7c005fd76d1,tecumseh.pet,available,6.41,20.9,medium,low,8,spaceship,,,29/09/2026 08:12
 558df98b-0e95-4590-bb3e-81bdf61202d4,gracious.pet,available,14.49,27.59,high,low,8,namesilo,,,24/09/2026 00:42
 0f9f8c08-8f8a-4ef6-8d37-6f2c4ae8223f,atm.pet,available,14.49,27.59,high,low,3,namesilo,,,20/09/2026 18:44
+0f647425-76c9-45db-869f-b012bad8b100,montreux.pet,available,13.5,,medium,low,8,unstoppable,,,02/10/2026 20:59
 e4836fb2-938f-4a30-a932-0e1b33406788,petrograd.pet,available,13.5,,medium,low,9,unstoppable,,,29/09/2026 01:34
 986689b1-b390-4998-bcba-fbcacea54024,briary.pet,available,6.98,35.98,medium,low,6,namecheap,,,08/08/2026 17:02
 8bce6f35-a734-484f-870d-b2c04da257df,smiling.pet,available,6.98,35.98,high,low,7,namecheap,,,27/09/2026 23:05
@@ -472,12 +511,15 @@ f95a6094-c942-4fdd-bc2c-570421767faf,disliked.pet,available,6.98,35.98,medium,lo
 f5ea4677-6edc-4962-81c9-fb5b6285b073,spades.pet,available,6.41,20.9,high,low,6,spaceship,,,30/09/2026 14:16
 1223959e-92f8-4f6c-bfbd-0d48116cc7ee,depicted.pet,available,6.98,35.98,medium,low,8,namecheap,,,14/08/2026 02:12
 67932e00-e55b-44da-84ae-f1769b4f9e13,blunt.pet,available,14.49,27.59,high,low,5,namesilo,,,22/09/2026 23:15
+8a2f8137-3d12-41b6-a4c4-5c7207059b36,ems.pet,available,6.41,20.9,high,low,3,spaceship,,,02/10/2026 09:44
 e1e01b2f-b4d3-48a2-bc50-3985879f3e51,sor.pet,available,13.5,,medium,low,3,unstoppable,,,29/09/2026 14:39
 4fef947a-b625-44fa-99dd-bf451a1da72f,wet.pet,resell,,,high,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",22/02/2026 15:16,22/02/2027 15:16,26/09/2026 10:07
 5c140a07-50c5-459f-94f5-4582b86a3ae5,galway.pet,available,14.49,27.59,high,low,6,namesilo,,,28/09/2026 09:51
 fb8b50cf-234d-4e69-a80f-f31fa301ea42,ahem.pet,available,6.98,35.98,high,low,4,namecheap,,,17/09/2026 20:20
 14b0eecb-f25c-48c0-9157-a6deec466a72,careful.pet,available,14.49,27.59,high,low,7,namesilo,,,23/09/2026 12:50
 9ec6d608-5a9c-495c-be1e-61bf5aba474e,balthasar.pet,available,14.49,27.59,high,low,9,namesilo,,,22/09/2026 00:15
+b88ff286-7179-4f52-a0f3-dc1ea4f1a8a7,shikoku.pet,available,20.2,20.2,medium,low,7,cloudflare,,,03/10/2026 02:05
+1cb09509-e867-4f05-b06d-71ef66c40e6f,patras.pet,available,13.5,,medium,low,6,unstoppable,,,02/10/2026 16:21
 8f76ca72-4501-4337-8ba5-38acdbea17e2,homesick.pet,available,6.98,35.98,medium,low,8,namecheap,,,21/08/2026 11:13
 7b57ad94-3f6c-4b23-be33-dfffa293bcd3,selangor.pet,available,6.41,20.9,medium,low,8,spaceship,,,30/09/2026 20:45
 7862e490-2dee-4ea3-a648-939324a9f9b8,parkinson.pet,available,20.2,20.2,medium,low,9,cloudflare,,,02/10/2026 04:12
@@ -496,14 +538,17 @@ f6b03ae7-7f5a-4cc3-bc19-aa5fe6803a6a,colonization.pet,available,6.41,20.9,medium
 fe86c7d4-b4d1-478c-bd51-c05633658188,acheson.pet,available,14.49,27.59,medium,low,7,namesilo,,,17/09/2026 00:31
 b4a221fd-ece0-4835-948b-72ff9918f06e,trackable.pet,available,6.98,35.98,high,low,9,namecheap,,,11/09/2026 18:37
 083cd9be-5e4f-4c99-9c8c-452b44523cfb,shrine.pet,available,14.49,27.59,high,low,6,namesilo,,,28/09/2026 10:54
+8703a325-b02e-4b54-a6a4-76d556b9425d,odell.pet,available,13.5,,medium,low,5,unstoppable,,,03/10/2026 04:04
 220a3f98-7dc5-46be-8678-e5dab1757f43,inhabitant.pet,available,14.49,27.59,high,low,10,namesilo,,,24/09/2026 21:51
 556aee8c-9ff8-4587-9efc-94977f4b1832,loughborough.pet,available,14.49,27.59,medium,low,12,namesilo,,,30/09/2026 13:11
 a5e93570-568e-44b8-bac8-d97ae2542d08,fin.pet,resell,,,high,low,3,"Xiamen ChinaSource Internet Service Co., Ltd",10/06/2026 15:15,10/06/2027 15:15,26/09/2026 06:05
 6229f4ab-908c-4faf-b7af-b7c08468febb,causing.pet,available,14.49,27.59,high,low,7,namesilo,,,24/09/2026 13:13
 0921f4eb-068d-4142-b427-9ca3c4557196,probably.pet,available,6.98,35.98,high,low,8,namecheap,,,25/09/2026 13:48
 a51914b3-1f43-40e7-8c3a-5bb0fedd57cf,reconsider.pet,available,20.2,20.2,medium,low,10,cloudflare,,,28/09/2026 20:52
+2070195a-2944-4d07-a558-2088770fdebd,tripoli.pet,available,6.41,20.9,high,low,7,spaceship,,,02/10/2026 14:32
 834c8ddb-5c29-4801-8b90-4691456d54d3,snugly.pet,available,6.98,35.98,medium,low,6,namecheap,,,16/09/2026 03:31
 f072e243-c982-4432-95b1-cc0c23e01354,associates.pet,available,20.2,20.2,medium,low,10,cloudflare,,,28/09/2026 08:50
+f849ae12-0206-4dea-b1a4-de02fd721837,silhouette.pet,available,6.98,35.98,high,low,10,namecheap,,,02/10/2026 16:47
 dcc3b2ff-9081-4fba-92ab-00253530f198,effort.pet,available,10.92,21.62,high,low,6,dynadot,,,01/10/2026 03:08
 19b892cb-d2c0-4c1d-a922-9a122b3938bf,outcrop.pet,available,14.49,27.59,high,low,7,namesilo,,,01/10/2026 03:11
 ef5c67bc-cdb2-462c-b122-b873aa82c679,mincing.pet,available,19.99,59.99,high,low,7,name.com,,,13/08/2026 15:43
@@ -521,6 +566,7 @@ c281017b-8951-4704-8a2d-2af2031b24fb,arb.pet,available,14.49,27.59,high,low,3,na
 3498cf66-f596-405a-bf57-cfc8e8814d52,diluvian.pet,available,6.98,35.98,medium,low,8,namecheap,,,14/08/2026 07:51
 82a9fcf8-0c7a-446c-b0bd-c84d1e640960,huntsville.pet,available,14.49,27.59,high,low,10,namesilo,,,27/09/2026 04:30
 b5da23bc-130f-4b25-aa62-da78831990e8,asteroidea.pet,available,14.49,27.59,medium,low,10,namesilo,,,20/09/2026 17:14
+e03d8797-0380-4811-8280-12f9bc2fecca,organist.pet,available,6.41,20.9,high,low,8,spaceship,,,02/10/2026 16:16
 6c9d8813-c8e1-4624-bbb8-9b2a60f24d3c,dalmatian.pet,available,19.99,59.99,high,low,9,name.com,,,13/08/2026 16:00
 434e3249-668c-44c7-be9e-6fc59279140f,absorbing.pet,available,14.49,27.59,high,low,9,namesilo,,,21/09/2026 15:02
 525d81ff-357b-4ee1-91a3-189271ef7c2f,biotitic.pet,available,6.98,35.98,medium,low,8,namecheap,,,10/08/2026 03:33
@@ -529,19 +575,24 @@ b2551725-a910-4c83-a4e4-fca1a309e663,lovesome.pet,available,6.98,35.98,medium,lo
 04759c02-7a8c-49e0-a08f-5369aa277791,forwarded.pet,available,10.81,21.11,medium,low,9,porkbun,,,02/10/2026 03:19
 1105a69c-9919-4a91-a40c-f1d3b67a9dd3,palatine.pet,available,6.98,35.98,medium,low,8,namecheap,,,04/09/2026 23:20
 47b62ad7-fa48-44cf-bada-1ca11d99a694,mubarak.pet,available,10.81,21.11,medium,low,7,porkbun,,,29/09/2026 13:04
+0cfdc747-911d-4a71-9596-a58f2dd69d16,weekday.pet,available,14.49,27.59,high,low,7,namesilo,,,02/10/2026 06:40
 bbe3e7d3-8f05-42d7-86a1-867ea79aaacc,luzerne.pet,available,20.2,20.2,medium,low,7,cloudflare,,,30/09/2026 14:00
 4ababa12-a8fd-4b0d-a9bb-0631bd2b2dee,jungly.pet,available,6.98,35.98,medium,low,6,namecheap,,,22/08/2026 14:27
 830d5b30-5a2d-470f-9897-174f6518e848,notebooks.pet,available,14.49,27.59,medium,low,9,namesilo,,,20/09/2026 11:51
 af589fd4-1b1c-4c32-9ced-1b7167e8cd8b,writing.pet,available,6.41,20.9,high,low,7,spaceship,,,28/09/2026 23:21
 95844eb1-34c5-4ffa-babe-f176cc64e08e,enjoyable.pet,available,6.98,35.98,high,low,9,namecheap,,,17/08/2026 09:17
+6913f8a4-6883-42e4-8da1-82b8637da03d,hoyer.pet,available,14.49,27.59,high,low,5,namesilo,,,03/10/2026 04:23
 ce68bed9-6a33-4373-ae19-0f9ed706fabd,conrad.pet,available,19.99,59.99,high,low,6,name.com,,,25/09/2026 04:23
 e09eeee0-8090-4a36-80b8-3665832938e2,comma.pet,available,14.49,27.59,high,low,5,namesilo,,,24/09/2026 16:27
 1320663c-4102-44c3-a452-b39c72543bd3,bibulous.pet,available,6.98,35.98,low,low,8,namecheap,,,09/08/2026 18:58
+acaefad6-cb8f-4503-8126-75145b823907,blot.pet,available,10.92,21.62,high,low,4,dynadot,,,02/10/2026 23:36
 02d1a149-0400-44b2-9f3e-a9eedb33550f,robby.pet,available,14.49,27.59,high,low,5,namesilo,,,01/10/2026 23:55
 ddf09661-af76-4dcf-8ba7-bd9e62ce6d47,elliott.pet,available,6.98,35.98,high,low,7,namecheap,,,25/09/2026 21:06
 001edc62-5b17-498b-9b9a-a125354e2a18,rollover.pet,available,6.98,35.98,high,low,9,namecheap,,,16/09/2026 17:22
-a9362948-8470-49ab-ac40-3b4082475bfa,discovered.pet,available,14.49,27.59,high,low,10,namesilo,,,29/09/2026 09:22
+a9362948-8470-49ab-ac40-3b4082475bfa,discovered.pet,available,6.41,20.9,high,low,10,spaceship,,,02/10/2026 17:24
+bf524a61-825b-4a60-a59d-3e3d30b68cf3,annihilation.pet,available,14.49,27.59,medium,low,12,namesilo,,,02/10/2026 21:42
 72ff0d0b-db1e-4fac-8f68-d9d370340641,optative.pet,available,6.98,35.98,medium,low,8,namecheap,,,04/09/2026 16:54
+fba67aed-4f82-4230-9c01-106424e8baec,influx.pet,available,6.41,20.9,high,low,6,spaceship,,,03/10/2026 01:16
 88b947bb-df5b-4325-8a17-80ef84e40d83,stabile.pet,available,6.98,35.98,medium,low,7,namecheap,,,21/08/2026 21:21
 76bea751-7304-4d5c-bf47-d4166b543a02,southeast.pet,premium,1107,1107,low,low,10,namesilo,,,28/09/2026 08:19
 61f339c1-1418-4b4e-b1cb-ae7a3dcdfc9b,anuran.pet,available,6.98,35.98,medium,low,6,namecheap,,,05/08/2026 20:48
@@ -566,11 +617,13 @@ e782c332-954d-4182-817b-4ea7c1a9dda5,inhalant.pet,available,6.98,35.98,high,low,
 97ad7e85-932a-4478-a835-ca943938f714,attestor.pet,available,14.49,27.59,medium,low,8,namesilo,,,21/09/2026 01:38
 72fd8b8e-64d2-46d8-b597-2981b7e19b84,astern.pet,available,6.98,35.98,medium,low,6,namecheap,,,
 2219ade9-b2be-4b05-8319-42377c87ddea,galapagos.pet,available,6.98,35.98,high,low,9,namecheap,,,30/09/2026 17:26
+f49e5be4-b349-4978-af51-33b67d71f13c,uda.pet,available,6.41,20.9,high,low,3,spaceship,,,03/10/2026 02:18
 e5f94b46-489b-4ae5-bae6-61c99e92852d,geologic.pet,available,6.98,35.98,high,low,8,namecheap,,,18/08/2026 22:30
 f14592d6-503a-4837-b07a-45b47d635700,bier.pet,available,14.49,27.59,medium,low,4,namesilo,,,23/09/2026 13:47
 235825dd-9ef9-4bfb-aa1b-9759eaa2acf6,chipper.pet,available,6.98,35.98,high,low,7,namecheap,,,12/08/2026 05:56
 cae65093-3950-4672-b2db-448734be063d,stains.pet,available,14.49,27.59,medium,low,6,namesilo,,,29/09/2026 22:47
 58fb160a-76cb-4488-a1ff-eaab6e0e83f1,diehard.pet,available,6.98,35.98,medium,low,7,namecheap,,,11/09/2026 18:42
+469ef465-f651-4a03-a1b4-9759db4b8f86,gnome.pet,available,6.41,20.9,high,low,5,spaceship,,,03/10/2026 00:59
 78543aea-2e5c-425a-9bf2-ac19ac5ed277,dayton.pet,available,14.49,27.59,high,low,6,namesilo,,,30/09/2026 01:15
 af0203ff-8935-4ff4-b56e-99176aebc4a1,traveller.pet,available,10.92,21.62,high,low,9,dynadot,,,30/09/2026 13:54
 874f0a44-5e81-4707-a14f-fe9b3910dcb1,significantly.pet,available,6.98,35.98,medium,low,13,namecheap,,,01/10/2026 05:34
@@ -579,6 +632,7 @@ af0203ff-8935-4ff4-b56e-99176aebc4a1,traveller.pet,available,10.92,21.62,high,lo
 05ceb88c-d03b-4370-b232-3c3f751f294c,invested.pet,available,20.2,20.2,high,low,8,cloudflare,,,28/09/2026 13:01
 1d8f93fd-f8d1-4ed1-b67a-5a6b28fa9f47,bilimbi.pet,available,14.49,27.59,medium,low,7,namesilo,,,21/09/2026 09:13
 02b1ffa0-288a-4304-bbd2-afc81720f3fb,barbarian.pet,available,6.98,35.98,medium,low,9,namecheap,,,08/08/2026 15:26
+ba280b4f-2165-42c1-b7b8-283384e7eb44,lenore.pet,available,10.81,21.11,medium,low,6,porkbun,,,02/10/2026 09:08
 5c733d3c-5e2a-47f1-bcce-33e75d076263,superlunar.pet,available,6.98,35.98,medium,low,10,namecheap,,,11/09/2026 02:21
 c42471d2-a65e-4c74-b861-24c5cd784945,epileptic.pet,available,6.98,35.98,high,low,9,namecheap,,,17/08/2026 10:58
 e141a9e8-841d-45b4-b3dd-ccfec6a5a6bc,uncommitted.pet,available,6.41,20.9,medium,low,11,spaceship,,,01/10/2026 06:01
@@ -597,10 +651,11 @@ c4dddcf3-fded-4d7e-8424-8462428d1287,cui.pet,available,13.5,,high,low,3,unstoppa
 f5046a2d-c1e1-49b3-99a5-e789abefdaa3,leyte.pet,available,13.5,,medium,low,5,unstoppable,,,29/09/2026 01:34
 04846401-44ec-463a-83b5-56470d91596c,meditation.pet,available,6.41,20.9,high,low,10,spaceship,,,29/09/2026 07:35
 cb1649ca-cd57-4231-859e-e4c9bea2c579,viewpoint.pet,available,13.5,,high,low,9,unstoppable,,,29/09/2026 20:00
-60aa19df-cb84-4b5d-93d2-2cf216d4d424,treating.pet,available,13.5,35.98,high,low,8,unstoppable,,,28/09/2026 08:47
+60aa19df-cb84-4b5d-93d2-2cf216d4d424,treating.pet,available,6.41,20.9,high,low,8,spaceship,,,02/10/2026 12:52
 47982620-ccf2-4629-8fb1-6c39be9c984e,roofless.pet,available,6.98,35.98,medium,low,8,namecheap,,,14/08/2026 12:09
 582946b6-f65d-488b-8f10-cb6399621115,enron.pet,available,6.41,20.9,high,low,5,spaceship,,,30/09/2026 04:20
 bd3a78a4-fc40-446b-b198-8914b65539c5,lenox.pet,available,14.49,27.59,medium,low,5,namesilo,,,28/09/2026 22:22
+25a7796c-b2df-4b3f-905f-4b1ab594fb58,purdy.pet,available,6.41,20.9,high,low,5,spaceship,,,02/10/2026 21:41
 e6d7629e-7bec-4d35-9c9b-e3f36498f330,constitutes.pet,available,6.41,20.9,low,low,11,spaceship,,,30/09/2026 00:12
 9599c0f8-1038-4bb7-97e3-ecd9143d0dc5,verification.pet,available,14.49,27.59,high,low,12,namesilo,,,29/09/2026 23:20
 b39a0e8e-f809-436a-8add-719d01c09f67,alfatah.pet,available,14.49,27.59,medium,low,8,namesilo,,,18/09/2026 00:22
@@ -642,6 +697,7 @@ b30fd724-8b7b-44fb-b4dc-9f2865dc4c42,fragrance.pet,available,20.2,20.2,high,low,
 b875eba5-b3b6-4cfa-b779-44bc25dcce3b,baksheesh.pet,available,14.49,27.59,medium,low,9,namesilo,,,21/09/2026 15:52
 b31013f0-8e40-4c20-b596-297db9902688,wobbly.pet,available,14.49,27.59,medium,low,6,namesilo,,,27/09/2026 14:59
 58f44221-6ef3-409b-bd5d-f7f082396536,breeze.pet,available,10.92,21.62,high,low,6,dynadot,,,28/09/2026 09:12
+5f44c25f-b123-4e5f-bb9c-cb01b944fe54,bogart.pet,available,6.41,20.9,medium,low,6,spaceship,,,02/10/2026 23:38
 e77f0d66-c990-4d30-bb88-bd0f306139f5,atar.pet,available,6.98,35.98,medium,low,4,namecheap,,,20/09/2026 19:24
 6154b515-0544-4135-866c-95fc37439833,archeology.pet,available,19.99,59.99,medium,low,10,name.com,,,20/09/2026 01:43
 61591972-667e-4097-944b-30342fc66745,venturous.pet,available,19.99,59.99,medium,low,9,name.com,,,13/08/2026 17:49
@@ -649,6 +705,7 @@ e77f0d66-c990-4d30-bb88-bd0f306139f5,atar.pet,available,6.98,35.98,medium,low,4,
 52ca7f61-0251-454d-9795-94728b214355,iranian.pet,available,6.98,35.98,high,low,7,namecheap,,,22/08/2026 09:39
 b14aa11a-d5a4-4c65-989d-8b3e44c232c4,zenithal.pet,available,6.98,35.98,medium,low,8,namecheap,,,13/09/2026 15:12
 04c471e2-163e-4d8c-94a9-b38ff490c26e,modem.pet,available,14.49,27.59,high,low,5,namesilo,,,30/09/2026 04:48
+e332340f-6066-42e7-a1b8-bc939f75daf8,thorax.pet,available,6.98,35.98,high,low,6,namecheap,,,02/10/2026 23:59
 fa0b2f4b-1936-4a79-8820-34ae990fcc2a,prelude.pet,available,10.92,21.62,high,low,7,dynadot,,,30/09/2026 10:52
 3efb020b-3e42-4d3e-a21f-8596276b0eaf,politicians.pet,available,14.49,27.59,medium,low,11,namesilo,,,19/09/2026 23:03
 57a4ea2e-39b9-4932-9e54-a77ae192b4cd,comedy.pet,available,14.49,27.59,high,low,6,namesilo,,,24/09/2026 16:25
@@ -683,6 +740,7 @@ f39f9a06-d30b-4a37-8415-4aca333027da,newell.pet,available,6.41,20.9,high,low,6,s
 a7134750-d546-4f97-baaa-4a1caf7e5b5e,fervently.pet,available,6.98,35.98,medium,low,9,namecheap,,,14/09/2026 18:24
 1e60bc8d-2f64-4783-b00e-d08eeb335d9c,soy.pet,available,6.98,35.98,high,low,3,namecheap,,,29/09/2026 12:51
 f90281ae-5193-4ad1-b373-b50a682c5d6b,sloppy.pet,available,6.98,35.98,high,low,6,namecheap,,,08/08/2026 08:22
+d0e5762e-f0f6-42ee-a9f4-4dd624842c0a,mower.pet,available,14.49,27.59,high,low,5,namesilo,,,03/10/2026 01:27
 001933b5-2b25-4a4e-948d-0c67670c6a94,promoter.pet,available,14.49,27.59,high,low,8,namesilo,,,29/09/2026 23:36
 0db9e5c5-3904-411f-9310-c2275f056af5,baltic.pet,available,14.49,27.59,high,low,6,namesilo,,,25/09/2026 05:10
 ed523b25-6fcf-405b-a185-1c616fac7c65,raping.pet,available,20.2,20.2,medium,low,6,cloudflare,,,02/10/2026 04:05
@@ -691,8 +749,10 @@ e453a79a-28eb-4f3b-bbb2-5cc8cc314d6e,honcho.pet,available,6.98,35.98,high,low,6,
 3bc7a403-bff7-4c44-81b1-2f299cc03a66,became.pet,available,19.99,,medium,low,6,name.com,,,
 1fbdbc55-ce93-4008-9fa2-ca33beb108e7,journeyman.pet,available,14.49,27.59,high,low,10,namesilo,,,28/09/2026 22:18
 d2df1b01-e9dd-4243-8e4e-1e9ec7ae970d,viridity.pet,available,6.98,35.98,medium,low,8,namecheap,,,20/08/2026 19:47
+5bc25256-f490-4ad8-a033-8dd6f9478471,distillery.pet,available,14.49,27.59,high,low,10,namesilo,,,03/10/2026 00:30
 acf1a5ce-e774-40be-88de-b914cf4c2056,apostles.pet,available,10.81,21.11,medium,low,8,porkbun,,,01/10/2026 15:28
 31ba2846-fa52-43c8-8cd9-993fe7759e25,revoke.pet,available,6.41,20.9,high,low,6,spaceship,,,01/10/2026 19:06
+6604b4fb-ca7f-4673-b223-58a569e9fa8a,indicators.pet,available,14.49,27.59,medium,low,10,namesilo,,,02/10/2026 13:58
 d710f803-7772-453e-a729-1ec83e665162,blythe.pet,available,6.41,20.9,high,low,6,spaceship,,,29/09/2026 23:30
 d53fb69c-3de1-48d3-a234-dee7de0e85ec,mousey.pet,available,6.98,35.98,medium,low,6,namecheap,,,25/08/2026 08:44
 e762948c-0add-4700-96ea-e5627cf0421f,greed.pet,available,14.49,27.59,high,low,5,namesilo,,,21/09/2026 08:43
@@ -707,6 +767,7 @@ d0a59929-7114-4a13-8e75-f8038989778e,anlage.pet,available,14.49,27.59,medium,low
 bedbc856-d570-411f-af05-f020b3004d8b,roadway.pet,available,6.98,35.98,high,low,7,namecheap,,,01/10/2026 21:33
 c35072af-0a8f-41ac-9fe7-e21206137104,crucifix.pet,available,6.98,35.98,high,low,8,namecheap,,,30/09/2026 16:50
 d9b8600d-a5ce-4231-95f9-5612b8f300e1,chapstick.pet,available,19.99,,high,low,9,name.com,,,
+6d9d3083-71dd-46a2-9d2b-abace19b3506,steamship.pet,available,14.49,27.59,high,low,9,namesilo,,,03/10/2026 02:11
 fd8d3419-6fa5-4801-ae1e-bc372b9c7dcb,disapproval.pet,available,19.99,,medium,low,11,name.com,,,
 bd1ddfe7-0844-480f-8d11-b17ea58ac75a,archery.pet,available,14.49,27.59,high,low,7,namesilo,,,20/09/2026 02:00
 fd6c3c69-3f9e-4936-86eb-1beef58647b4,debated.pet,available,6.41,20.9,medium,low,7,spaceship,,,02/10/2026 02:12
@@ -725,6 +786,7 @@ e4ff4f24-3c7c-4b4f-ad27-47c347ba722c,unaddicted.pet,available,6.98,35.98,medium,
 0fac7021-fece-49f6-a669-8ee7f6fbce41,elbert.pet,available,6.41,20.9,medium,low,6,spaceship,,,30/09/2026 05:08
 275619f5-f7cd-4d8b-8e8b-6842f5d5581f,truer.pet,available,14.49,27.59,medium,low,5,namesilo,,,20/09/2026 05:56
 97636e01-6dbe-4bfc-aba8-30c2cd607318,believes.pet,available,14.49,27.59,medium,low,8,namesilo,,,19/09/2026 19:41
+28e5eb37-c6d8-4091-899f-ed141ba84db3,selfhelp.pet,available,13.5,,high,low,9,unstoppable,,,02/10/2026 06:22
 b6df7073-609d-485e-862b-a123f03e7f05,goof.pet,available,14.49,27.59,medium,low,4,namesilo,,,24/09/2026 06:18
 b4c343e9-4c65-4028-93fc-d98b5bc859fd,gardener.pet,available,6.41,20.9,medium,low,8,spaceship,,,28/09/2026 09:51
 cd0bbe89-abd6-47ee-803f-2f4639579c71,irenic.pet,available,6.98,35.98,medium,low,6,namecheap,,,22/08/2026 09:48
@@ -738,6 +800,8 @@ c64873bb-e48d-47a4-b0c0-fb94563f7beb,lupine.pet,available,6.98,35.98,high,low,6,
 4ada54c5-1685-4668-96f8-41574e49c25d,rhyming.pet,available,6.98,35.98,high,low,7,namecheap,,,09/09/2026 16:53
 ebe05c55-480e-4e88-94d4-d64166e51329,hackensack.pet,available,13.5,,medium,low,10,unstoppable,,,30/09/2026 05:39
 c85e90c6-ef3e-4b8e-b1ab-9b3c2ea6f191,argentine.pet,available,,,high,high,9,,,,
+b03c0a25-b507-4319-90f7-9abdf3946cd0,maugham.pet,available,13.5,,medium,low,7,unstoppable,,,03/10/2026 01:35
+c0fa5a1c-6b33-4074-8520-3838f6299a60,hazleton.pet,available,10.81,21.11,medium,low,8,porkbun,,,03/10/2026 04:29
 dce3388c-638b-4651-a5c6-7f9fd2ff98a5,pavlovian.pet,available,6.98,35.98,medium,low,9,namecheap,,,08/09/2026 10:55
 a884ce18-1b84-4995-879b-f20b7177e196,neva.pet,available,6.98,35.98,high,low,4,namecheap,,,30/09/2026 18:10
 ad4654ce-3cc5-48f2-9af8-8c974e1a55ce,autotype.pet,available,19.99,59.99,medium,low,8,name.com,,,21/09/2026 08:17
@@ -752,30 +816,36 @@ bf5a5852-4a1d-4619-9a18-e5777b4963e2,stain.pet,available,14.49,27.59,high,low,5,
 fd081446-b05f-4916-a31f-438677e1a68f,prelate.pet,available,14.49,27.59,medium,low,7,namesilo,,,20/09/2026 02:36
 9211e52b-1a3d-4026-b615-9da7008177e6,condom.pet,available,13.5,,high,low,6,unstoppable,,,29/09/2026 10:43
 9ff729d8-6ebb-4dcc-a0f3-80c7240b0c50,freeway.pet,available,13.5,,high,low,7,unstoppable,,,29/09/2026 18:44
+ca2201a1-d206-45de-a0a1-ea297b6eb496,angkor.pet,available,20.2,20.2,medium,low,6,cloudflare,,,02/10/2026 20:28
 71a441f1-03b5-40c0-9064-eb76ca37e160,frye.pet,available,6.41,20.9,medium,low,4,spaceship,,,28/09/2026 19:16
 ee655a94-8954-4db2-9536-e9067bf54bce,deniable.pet,available,6.98,35.98,medium,low,8,namecheap,,,14/08/2026 01:50
 2935a66e-1abc-4994-bd92-db963c1ef2fe,follow.pet,resell,,,high,low,6,"Spaceship, Inc.",13/07/2026 20:54,13/07/2027 20:54,30/09/2026 13:24
 997f428d-0ce2-4fd1-bc01-eca19e0973ad,kleist.pet,available,14.49,27.59,medium,low,6,namesilo,,,23/09/2026 09:54
 e286cc3c-5447-47e8-8f41-3feb918f2f83,conventions.pet,premium,1300,1300,medium,low,11,namecheap,,,29/09/2026 16:17
+f19d60ec-936d-432b-99c9-f10ac1efcec5,mips.pet,available,14.49,27.59,high,low,4,namesilo,,,03/10/2026 01:37
 dbfdc59e-d5b0-4e2f-b1ea-e96c10fa1986,vlad.pet,available,14.49,27.59,high,low,4,namesilo,,,02/10/2026 00:50
 dafa1e0c-828e-46dd-b9e6-a4cb75aaed54,chemist.pet,available,14.49,27.59,high,low,7,namesilo,,,19/09/2026 19:39
 2b13aa13-e87b-4fde-8af4-e830b4eca5bc,lafayette.pet,available,14.49,27.59,high,low,9,namesilo,,,30/09/2026 01:47
 e45c2bea-897f-42f2-9f36-bb08d830ab12,buoyant.pet,available,6.98,35.98,high,low,7,namecheap,,,11/08/2026 10:06
 55692d44-b98d-471d-a2da-1bc0e249d610,keaton.pet,available,14.49,27.59,medium,low,6,namesilo,,,30/09/2026 00:55
 75a53cab-18e5-40f7-a81e-75387e31ca18,swagger.pet,resell,,,high,low,7,"GoDaddy.com, LLC",05/01/2026 20:10,05/01/2027 20:10,26/09/2026 09:27
+c4b14e37-c035-402f-bcca-68c87275f70c,shaman.pet,available,13.5,,high,low,6,unstoppable,,,03/10/2026 01:50
 900a12cb-3175-4496-9ef4-71d592592a5a,potbellied.pet,available,6.98,35.98,medium,low,10,namecheap,,,
+93f1c976-8101-4687-84fb-0a9bc192a519,brixton.pet,available,10.81,21.11,medium,low,7,porkbun,,,02/10/2026 20:33
 2137b469-a779-4c69-9c1b-9539d9be1a75,livery.pet,available,6.98,35.98,high,low,6,namecheap,,,24/08/2026 08:06
 a5b8b29b-6907-4f0b-a769-966a38889518,khz.pet,available,14.49,27.59,high,low,3,namesilo,,,25/09/2026 08:09
 d578aa69-beb9-407a-82c1-cbde35079a5c,peak.pet,available,6.98,35.98,high,medium,4,namecheap,,,24/09/2026 20:27
 343dccb3-96cf-470c-b11b-4f3857e9baba,ignited.pet,available,6.98,35.98,high,low,7,namecheap,,,17/08/2026 09:20
+d4e9a12b-7177-4c98-883a-f68a2bdac470,confer.pet,available,10.92,21.62,high,low,6,dynadot,,,02/10/2026 17:14
 c4ddb681-917f-48f7-a6eb-b29dc4c757f8,character.pet,available,6.98,35.98,high,low,9,namecheap,,,24/09/2026 13:45
 042b40e8-36cb-4062-8b75-50683b2b1a21,tasting.pet,available,6.98,35.98,high,low,7,namecheap,,,29/09/2026 13:40
-2526eda1-309c-422a-a44b-7f308b402b2d,particles.pet,available,19.99,,medium,low,9,name.com,,,
+2526eda1-309c-422a-a44b-7f308b402b2d,particles.pet,available,14.49,27.59,medium,low,9,namesilo,,,03/10/2026 01:16
 25d5c86a-07b5-4ca8-a5b3-0a2d6479f82b,arquebus.pet,available,14.49,27.59,medium,low,8,namesilo,,,20/09/2026 08:40
 23dca12c-5f48-42f9-a44d-48115caee7c2,abadan.pet,available,19.99,59.99,medium,low,6,name.com,,,16/09/2026 13:48
 6f06922f-8469-4652-a2eb-efbd17158715,earhart.pet,available,6.98,35.98,medium,low,7,namecheap,,,18/09/2026 18:17
 d6666322-53f4-4588-9bdf-f164e32402f8,fergusson.pet,available,13.5,,medium,low,9,unstoppable,,,02/10/2026 02:38
 f19db1ae-ce12-42b9-bb86-1d59a666e122,intrusion.pet,available,20.2,20.2,medium,low,9,cloudflare,,,29/09/2026 00:48
+3e209324-8e56-4324-b1cd-493d461d20c3,demolish.pet,available,14.49,27.59,high,low,8,namesilo,,,02/10/2026 06:43
 35d8f6b3-f584-4685-aa59-e1f8b490956c,opposable.pet,available,6.98,35.98,medium,low,9,namecheap,,,06/08/2026 07:43
 54d54f7c-2b55-40fe-a2fe-6c114cf6b1f3,backstroke.pet,available,14.49,27.59,high,low,10,namesilo,,,21/09/2026 16:09
 e341da0d-669c-4afa-b876-ce190f64c3d0,injurious.pet,available,6.98,35.98,medium,low,9,namecheap,,,14/08/2026 00:30
@@ -786,7 +856,9 @@ e341da0d-669c-4afa-b876-ce190f64c3d0,injurious.pet,available,6.98,35.98,medium,l
 d30df16f-e190-4599-a112-4a45b1383f57,abortion.pet,available,14.49,27.59,high,low,8,namesilo,,,16/09/2026 16:39
 e146f18d-075b-4d25-9962-8661efe9ba63,afflicted.pet,available,6.98,35.98,medium,low,9,namecheap,,,
 376900d1-562b-4fce-b3b8-279fe1942993,hostesses.pet,available,14.49,27.59,medium,low,9,namesilo,,,20/09/2026 07:50
+a4a37a8a-c85d-4003-b186-7e06bf605fc6,bem.pet,available,6.41,20.9,medium,low,3,spaceship,,,03/10/2026 03:32
 1b8f2b20-a7a1-463b-9923-6cf9b23ac5ac,sinister.pet,available,6.98,35.98,medium,low,8,namecheap,,,24/08/2026 20:02
+64897c54-c650-40f6-8e27-af2a2f40bed0,revisit.pet,available,14.49,27.59,high,low,7,namesilo,,,02/10/2026 17:16
 6ab159ec-a950-4579-bc8a-e95a717b8d4d,australasian.pet,available,10.81,21.11,medium,low,12,porkbun,,,29/09/2026 03:04
 a0dcf1a2-57ea-4c0e-8828-eeef24d03885,pneumonia.pet,available,6.41,20.9,medium,low,9,spaceship,,,28/09/2026 06:36
 fa4c2892-0e1b-4f8e-8659-5c7be55eac9c,minna.pet,available,10.92,21.62,high,low,5,dynadot,,,01/10/2026 06:17
@@ -794,6 +866,7 @@ b562da48-c809-4170-8b57-d8ce211c4852,respectable.pet,available,6.98,35.98,high,l
 656606d5-7b2f-4621-8130-f052c3905f16,crushed.pet,available,6.98,35.98,high,low,7,namecheap,,,13/08/2026 09:11
 2b3c19a7-6e66-404a-97fa-16a961531c83,orientation.pet,available,6.41,20.9,high,low,11,spaceship,,,28/09/2026 22:40
 2fd7a187-bf5b-4643-8616-95baa7fd322b,alexia.pet,available,14.49,27.59,medium,low,6,namesilo,,,18/09/2026 06:04
+bd08f8a4-fbe8-4779-9d11-649d6e5ff80d,snapper.pet,available,14.49,27.59,medium,low,7,namesilo,,,02/10/2026 23:58
 4be677d9-16ef-48e1-a014-c8bc87efc92f,boiler.pet,available,10.81,21.11,high,low,6,porkbun,,,28/09/2026 13:34
 973c4027-a256-4ea2-bfb9-aff79bd960ac,unfeigned.pet,available,6.98,35.98,medium,low,9,namecheap,,,12/09/2026 10:06
 50b58d84-af6f-4dc8-bf8c-c1ffbc586fb6,algren.pet,available,14.49,27.59,medium,low,6,namesilo,,,18/09/2026 07:18
@@ -804,9 +877,12 @@ b562da48-c809-4170-8b57-d8ce211c4852,respectable.pet,available,6.98,35.98,high,l
 aaf80372-9d28-4e34-aa8e-b710bb9179fb,gratified.pet,available,6.98,35.98,high,low,9,namecheap,,,20/08/2026 18:24
 f16483a0-9885-4feb-b267-519d0e050815,rubinstein.pet,available,14.49,27.59,medium,low,10,namesilo,,,19/09/2026 15:30
 e1ba6838-9046-4aca-97c9-f8e912506af6,eyetooth.pet,available,6.98,35.98,medium,low,8,namecheap,,,11/08/2026 16:59
+71d3f141-680f-43fb-ae14-7525054f3e57,hightower.pet,available,13.5,,medium,low,9,unstoppable,,,02/10/2026 10:29
 6492b980-a938-44d8-acc1-6d8f386ba01a,effortless.pet,available,6.98,35.98,high,low,10,namecheap,,,15/08/2026 16:21
 49ec164b-7eb6-4468-87c7-8afe5d363c94,milanese.pet,available,6.98,35.98,medium,low,8,namecheap,,,24/08/2026 22:53
+84eff2f7-3a0a-4f15-be12-0f6a55acb800,briefed.pet,available,20.2,20.2,high,low,7,cloudflare,,,02/10/2026 13:19
 4f2a27cd-66ef-4757-8fb2-c6c060eb9c13,unnatural.pet,available,6.98,35.98,medium,low,9,namecheap,,,
+0086876e-994f-496b-8bb6-da8336b062fb,vermin.pet,available,14.49,27.59,medium,low,6,namesilo,,,02/10/2026 17:04
 1c09d15f-4bfa-405f-b75d-6695ce642364,beheading.pet,available,14.49,27.59,medium,low,9,namesilo,,,23/09/2026 03:20
 42f26287-91e6-46eb-bf69-75bbd916dbc4,gaol.pet,available,6.98,35.98,medium,low,4,namecheap,,,08/09/2026 22:46
 7dfa0b0e-03b1-4959-8b32-fe945d518a4f,beamy.pet,available,6.98,35.98,medium,low,5,namecheap,,,09/08/2026 04:18
@@ -815,6 +891,7 @@ f8cf9e6f-110e-498c-aa12-e988cbaacf35,icily.pet,available,6.98,35.98,low,low,5,na
 4f4eefec-97ec-4ddb-a1f2-e5e7f70f40c8,jokes.pet,available,14.49,27.59,high,low,5,namesilo,,,25/09/2026 11:35
 6c59182f-42e4-42dc-98c9-586030189223,tvs.pet,available,6.41,20.9,high,low,3,spaceship,,,30/09/2026 00:49
 62855391-28e4-462e-956e-0a936cecdf4a,backband.pet,available,14.49,27.59,medium,low,8,namesilo,,,21/09/2026 14:57
+035cb567-3f25-419d-90fe-6efd21264e65,npo.pet,available,14.49,27.59,high,low,3,namesilo,,,03/10/2026 03:46
 b53c94f2-1efa-492f-91f1-e1e07ab8b121,kemal.pet,available,20.2,20.2,medium,low,5,cloudflare,,,30/09/2026 05:10
 a458cb2e-5299-4566-9988-31cc2dc122c3,mccarthy.pet,available,6.98,35.98,high,low,8,namecheap,,,25/09/2026 08:04
 152bea7a-62bd-4c68-99a7-908299fc7555,sunflower.pet,available,6.41,20.9,high,low,9,spaceship,,,30/09/2026 10:06
@@ -840,6 +917,7 @@ bd8b31ce-ca81-4686-bb3f-6120066bfc3c,barbel.pet,available,14.49,27.59,medium,low
 251f1da4-ae7c-4700-ad41-496bef4248e9,compelled.pet,available,20.2,20.2,low,low,9,cloudflare,,,28/09/2026 23:06
 be2a1927-2919-4745-9f93-a83bdd38cf77,postman.pet,available,20.2,20.2,high,low,7,cloudflare,,,01/10/2026 02:53
 6275eaff-ef60-4ee9-a506-62a1d76fd35e,ballpen.pet,available,6.98,35.98,medium,low,7,namecheap,,,21/09/2026 23:22
+06f4ace8-7be9-461d-b5a4-5e9126b4fd18,bitcoin.pet,resell,,,high,high,7,,,,03/10/2026 04:05
 e452f192-54b5-4350-9108-59096a1fa550,armorer.pet,available,6.98,35.98,medium,low,7,namecheap,,,20/09/2026 07:29
 7407ba17-0dd7-4269-a975-550555c62e77,weakest.pet,available,19.99,,medium,low,7,name.com,,,
 4153c62a-9888-426d-a214-aecd3a13211d,hutton.pet,available,14.49,27.59,high,low,6,namesilo,,,25/09/2026 07:41
@@ -849,16 +927,20 @@ e452f192-54b5-4350-9108-59096a1fa550,armorer.pet,available,6.98,35.98,medium,low
 96800780-bf73-4910-beed-f732718472e2,concern.pet,available,6.41,20.9,high,low,7,spaceship,,,29/09/2026 05:30
 5efd68cb-b615-4fa9-ba7f-a5f5e6ac4c4d,games.pet,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",08/08/2019 11:31,08/08/2027 11:31,26/09/2026 06:19
 f9612edc-6247-430a-81fb-21a6e1f341a4,endicott.pet,available,6.41,20.9,medium,low,8,spaceship,,,30/09/2026 01:32
+5188a7b6-9317-4a0b-a941-18188762ca19,wofford.pet,available,14.49,27.59,medium,low,7,namesilo,,,03/10/2026 06:06
 d125e89c-85f0-41d6-88de-baa4bf5e92ed,iodin.pet,available,6.98,35.98,high,low,5,namecheap,,,21/08/2026 17:26
 46c8593f-54cf-45e9-b282-72ffc08f5a9c,revered.pet,available,14.49,27.59,high,low,7,namesilo,,,27/09/2026 14:02
 6fca5a65-3fed-420a-8193-a125596ff1ed,mahabharata.pet,available,13.5,,high,low,11,unstoppable,,,30/09/2026 20:17
+7aaec17b-a0b4-4665-9fec-f67245054e9b,truckee.pet,available,6.41,20.9,medium,low,7,spaceship,,,02/10/2026 20:55
 9f383ba6-977c-4a5f-9e11-4d79564d5be6,richly.pet,available,6.98,35.98,high,low,6,namecheap,,,13/09/2026 19:38
 ba0c14f3-6119-42d8-a644-b2174f51a2cf,lunger.pet,available,6.98,35.98,medium,low,6,namecheap,,,12/08/2026 23:06
 b9a75858-9d9f-44f2-91dd-339961b6792f,xvi.pet,available,14.49,27.59,medium,low,3,namesilo,,,21/09/2026 11:49
 2dc7bcbd-6159-4f6f-b388-498f17b871b2,interbrain.pet,available,14.49,27.59,medium,low,10,namesilo,,,23/09/2026 11:55
+c9e9b9c3-1702-4416-8016-9682b632d4fb,launceston.pet,available,13.5,,medium,low,10,unstoppable,,,02/10/2026 20:38
 7a629c57-af27-4296-8ee2-024fdc50a1d8,accompanied.pet,available,10.81,21.11,high,low,11,porkbun,,,29/09/2026 10:27
 00c5a499-b7c7-4fff-a2bf-9789a2116c88,diligently.pet,available,6.98,35.98,medium,low,10,namecheap,,,14/09/2026 12:40
 3c04f560-0b37-47c4-9d80-b445d1110715,tarragon.pet,available,19.99,59.99,high,low,8,name.com,,,20/09/2026 10:17
+4d4f2fc9-8298-42a7-9bcb-94cec0139c62,schoolboy.pet,available,14.49,27.59,high,low,9,namesilo,,,02/10/2026 06:20
 f2268484-46e5-4ce7-8a60-15f71d297b19,peralta.pet,available,13.5,,medium,low,7,unstoppable,,,01/10/2026 17:33
 48b52004-e59c-40dc-ac45-eafe9e90b73c,astheny.pet,available,6.98,35.98,low,low,7,namecheap,,,20/09/2026 17:17
 1e32800b-239f-4c1f-bc56-a05c0eabf95b,iglesias.pet,available,6.41,20.9,medium,low,8,spaceship,,,30/09/2026 17:40
@@ -877,6 +959,7 @@ a17ae735-de03-4ee1-b429-8e47edbe5b0e,aftershock.pet,available,14.49,27.59,medium
 3ef3f0d4-50b6-4bb4-bd84-45394c60bf81,concealed.pet,available,6.98,35.98,high,low,9,namecheap,,,23/09/2026 18:33
 fc334630-ee1b-4c8f-952d-64059c2600fc,unsized.pet,available,6.98,35.98,low,low,7,namecheap,,,12/09/2026 20:00
 a1de50db-1767-40e6-a54c-208656f7737a,louche.pet,available,6.98,35.98,medium,low,6,namecheap,,,24/08/2026 10:02
+270d1680-978d-42be-b906-2c9296adfec5,hideyoshi.pet,available,6.41,20.9,medium,low,9,spaceship,,,02/10/2026 20:48
 f501b9e5-a0a0-41f0-9856-e873567bed38,jayne.pet,available,14.49,27.59,medium,low,5,namesilo,,,29/09/2026 22:03
 2045a4ca-f9de-4783-8733-8518ae09b755,raffish.pet,available,19.99,59.99,medium,low,7,name.com,,,13/08/2026 17:31
 38471ca2-2fb5-4540-b4c2-193bfc6a9224,righteous.pet,available,6.41,20.9,high,low,9,spaceship,,,27/09/2026 15:12
@@ -886,6 +969,7 @@ d2baeff0-26ae-4120-94b4-54a838c00dc9,bigger.pet,available,10.92,21.62,high,low,6
 edc5b9fd-d289-464e-a91a-745087966376,additional.pet,available,6.98,35.98,high,low,10,namecheap,,,21/09/2026 17:14
 1e849200-4dba-4116-bd86-d853bb138b3f,nullify.pet,available,6.98,35.98,high,low,7,namecheap,,,13/09/2026 06:46
 1e9b72fb-e55d-4da5-9c49-29007a531d2b,workman.pet,available,14.49,27.59,medium,low,7,namesilo,,,01/10/2026 22:04
+c3130661-9b10-46f2-99ef-20d90dddda18,unlv.pet,available,6.41,20.9,medium,low,4,spaceship,,,02/10/2026 10:51
 e617cb36-09e6-4798-aaf9-0bdd69ce28ec,postbox.pet,available,19.99,,high,low,8,name.com,,,
 784650c2-94d4-43b7-ba85-c63b09f2b47f,horrify.pet,available,6.98,35.98,medium,low,7,namecheap,,,18/09/2026 01:56
 0b93b484-8312-4306-84a4-15f2bfd3357e,anorexia.pet,available,6.98,35.98,medium,low,8,namecheap,,,19/09/2026 11:46
@@ -915,87 +999,3 @@ eed236b6-34e7-4b3f-af73-a51b6f7ff5e6,lsd.pet,available,6.41,20.9,high,low,3,spac
 d142786d-70d6-4b95-b06a-f02586e438ca,tenanted.pet,available,6.98,35.98,medium,low,8,namecheap,,,11/09/2026 11:09
 87f87a0a-f63e-4f36-8a6f-236618204118,complimentary.pet,available,13.5,,medium,low,13,unstoppable,,,30/09/2026 04:02
 e37cc3bc-5c09-42f3-ba42-457dabb04fa4,spending.pet,available,14.49,27.59,high,low,8,namesilo,,,27/09/2026 03:51
-e57ff343-df05-49e8-815c-d1ec3f734ce5,klaus.pet,available,14.49,27.59,medium,low,5,namesilo,,,27/09/2026 01:38
-b584b953-cdd3-43c2-89be-3e811abc16a1,weaned.pet,available,6.98,35.98,high,low,6,namecheap,,,13/09/2026 08:53
-e4b7cf7b-788a-41bf-a4eb-8ca491c2067b,handed.pet,available,6.98,35.98,medium,low,6,namecheap,,,20/08/2026 23:25
-1d4f3e89-efee-4418-afb2-a629d0efd261,fungal.pet,available,6.98,35.98,medium,low,6,namecheap,,,18/08/2026 18:28
-feb886da-86b5-414a-9873-ec01952baf0a,calibrated.pet,available,6.98,35.98,medium,low,10,namecheap,,,11/08/2026 14:16
-500e4fca-4390-4825-97bd-d4e2a4435f5f,jesuit.pet,available,6.98,35.98,high,low,6,namecheap,,,22/08/2026 13:03
-3b6d6df8-df6c-4cd9-b3a2-1d273f2710b6,mediate.pet,available,6.98,35.98,high,low,7,namecheap,,,21/08/2026 23:37
-b16788d9-97e6-409b-8f74-02f8e7161b4a,encouraged.pet,available,14.49,27.59,high,low,10,namesilo,,,23/09/2026 10:08
-5269fd9d-9c8c-4170-8446-842eafb97400,cosmic.pet,available,6.98,35.98,high,medium,6,namecheap,,,13/08/2026 02:54
-6c9d6567-8788-4d1a-a96d-bdce1ad84c4c,machiavelli.pet,available,14.49,27.59,high,low,11,namesilo,,,30/09/2026 04:12
-d51fb947-4167-4231-be78-215a7caf1312,nijmegen.pet,available,20.2,20.2,medium,low,8,cloudflare,,,01/10/2026 21:08
-75967149-7495-492b-8dfe-760ae696ef31,carrick.pet,available,6.41,20.9,medium,low,7,spaceship,,,30/09/2026 20:19
-1709e2d7-67a7-4e9b-a075-75ff0220bb7b,gordy.pet,available,20.2,20.2,medium,low,5,cloudflare,,,02/10/2026 00:35
-8fd88924-7a6e-4b15-82ca-561ae0e61e94,edmond.pet,available,14.49,27.59,medium,low,6,namesilo,,,27/09/2026 01:39
-fee87e0c-6f61-41d6-a64c-ec82cc6c6ef7,bioko.pet,available,6.98,35.98,medium,low,5,namecheap,,,23/09/2026 18:17
-f4ea9927-8ad3-4c71-8c4a-490b0ee037a9,incompetence.pet,available,20.2,20.2,medium,low,12,cloudflare,,,30/09/2026 14:30
-24d9f50b-6da8-475e-98c2-200310f86d2b,propensity.pet,available,6.98,35.98,high,low,10,namecheap,,,22/08/2026 22:09
-bbab90a6-9fca-4e3f-9156-77b351d8d79a,presidential.pet,available,6.41,20.9,high,low,12,spaceship,,,27/09/2026 17:17
-889377db-e9d9-4c7d-851a-5570cfe8d2a8,continuation.pet,available,13.5,,high,low,12,unstoppable,,,30/09/2026 14:34
-47da3e0e-64cd-4c1d-b841-80d6fe281889,championships.pet,available,6.41,20.9,medium,low,13,spaceship,,,30/09/2026 06:40
-6f59c9e4-0e69-4a4b-9a62-1a9852d5e06b,acquittal.pet,available,14.49,27.59,high,low,9,namesilo,,,17/09/2026 02:42
-15a576b1-d4fa-4f6f-a1ca-332c732020e4,downward.pet,available,6.98,35.98,high,low,8,namecheap,,,14/08/2026 17:18
-eae2c3a3-400d-4bf4-8ee5-77440961bd2f,agreement.pet,available,10.81,21.11,high,low,9,porkbun,,,28/09/2026 08:10
-0bf65433-a86c-4873-b0fd-faf30f9e9cbe,economy.pet,available,6.98,35.98,high,low,7,namecheap,,,08/09/2026 12:29
-16c36aac-ee8a-43f5-897b-08b5292924cc,monastic.pet,available,6.98,35.98,medium,low,8,namecheap,,,12/08/2026 11:57
-d03cca4b-b4a9-4124-a65c-b8294e569877,olson.pet,available,6.98,35.98,medium,low,5,namecheap,,,27/09/2026 01:46
-6e00c1e8-2b4f-4bfb-8297-0ae096c0443d,clausal.pet,available,6.98,35.98,medium,low,7,namecheap,,,12/08/2026 10:00
-67e578ad-baf3-4f52-ac86-2838e18a3231,yearly.pet,available,14.49,27.59,high,low,6,namesilo,,,28/09/2026 11:15
-0db6a011-1edb-4b9c-bb68-e9057c909335,pth.pet,available,6.98,35.98,high,low,3,namecheap,,,01/10/2026 06:57
-06873dbb-1f6f-41c3-a65e-ba2a2a34a58a,selena.pet,available,10.92,21.62,medium,low,6,dynadot,,,30/09/2026 13:21
-09186a47-f643-474e-836e-acf035a1870c,gino.pet,available,10.81,21.11,high,low,4,porkbun,,,30/09/2026 04:18
-2cde3123-b6f7-4e7c-ae17-61d425016213,luxury.pet,resell,,,high,low,6,Edomains LLC,03/03/2016 02:11,03/03/2027 02:11,30/09/2026 02:20
-2df45db6-5a99-433e-9af7-54ad3b435f8a,upcountry.pet,available,6.98,35.98,medium,low,9,namecheap,,,24/08/2026 22:37
-b268d76d-1b43-4f70-b6e3-f84c20190db3,temperament.pet,available,20.2,20.2,high,low,11,cloudflare,,,30/09/2026 22:37
-2945174f-d0b3-4410-9b98-14bbc891c175,archibald.pet,available,14.49,27.59,medium,low,9,namesilo,,,25/09/2026 18:45
-4da8da2d-dc61-48cf-8ec5-94280c47f193,scold.pet,available,6.98,35.98,high,low,5,namecheap,,,24/09/2026 16:34
-16ee2026-584c-482e-bbe6-b25e86aef5e0,sally.pet,available,10.92,21.62,high,low,5,dynadot,,,28/09/2026 20:21
-ab4b671e-c162-4b8e-8a7b-482596ef7d9b,bermudian.pet,available,6.98,35.98,medium,low,9,namecheap,,,09/08/2026 15:15
-4bae94e2-6f4c-4a08-9262-7f575550664d,rinehart.pet,available,6.41,20.9,medium,low,8,spaceship,,,29/09/2026 22:34
-636b2ba3-0a54-425e-a7e1-ecd132e9c196,phillip.pet,available,14.49,27.59,high,low,7,namesilo,,,17/09/2026 13:24
-f627fedc-53dd-4458-94bf-4370d2435f8d,swoosh.pet,available,6.98,35.98,high,low,6,namecheap,,,11/09/2026 05:52
-b8db2cf4-e27b-48c9-a0ee-979c7e6fc483,dashed.pet,available,19.99,59.99,medium,low,6,name.com,,,13/08/2026 18:27
-32d49085-0189-4b88-897b-b00a5d0a3da7,ameboid.pet,available,6.98,35.98,medium,low,7,namecheap,,,
-688f9f19-9dab-4b3f-a675-33c9252a28bb,febrile.pet,available,6.98,35.98,medium,low,7,namecheap,,,18/08/2026 00:27
-31bbbc0f-b1f5-4bda-9f64-f1b37900ffc7,hawke.pet,available,14.49,27.59,medium,low,5,namesilo,,,29/09/2026 15:41
-e5e1e248-2d05-435d-8e76-601a94a2da3e,satire.pet,available,14.49,27.59,high,low,6,namesilo,,,24/09/2026 13:17
-48037ffb-8c50-42ff-bbbe-e015e4547d14,pamela.pet,available,19.99,,high,low,6,name.com,,,
-be1d7553-1326-4215-8a75-5dff286e35f3,googler.pet,available,14.49,27.59,high,low,7,namesilo,,,01/10/2026 22:14
-a53270f8-d5e5-4482-800f-7e0565e3978a,keller.pet,available,14.49,27.59,high,low,6,namesilo,,,25/09/2026 07:11
-9c704bf4-05ae-4314-afdb-8a4017535bb6,raven.pet,available,14.49,27.59,high,medium,5,namesilo,,,28/09/2026 09:27
-82bb895c-2690-4240-894f-4ab0095bd20c,jovian.pet,available,6.98,35.98,medium,low,6,namecheap,,,22/08/2026 14:02
-65ccbca4-fb3c-4de2-942f-148309a5a051,carlisle.pet,available,14.49,27.59,high,low,8,namesilo,,,25/09/2026 14:54
-8616a675-1e2e-4bfa-be7f-42c915e033ef,kid.pet,premium,1107,1107,high,low,3,namesilo,,,25/09/2026 12:09
-2a35c9c3-4e9f-422f-92cb-16ed9dd26d94,aristocrat.pet,available,6.98,35.98,high,low,10,namecheap,,,20/09/2026 05:51
-c5dde1b3-a9a6-4dd7-95b5-6bf9ec86fdeb,housman.pet,available,14.49,27.59,medium,low,7,namesilo,,,16/09/2026 12:57
-8462d3b1-cc19-44af-a81e-5be1b5bf1bc6,commotion.pet,available,14.49,27.59,high,low,9,namesilo,,,24/09/2026 16:36
-1be9b3c0-d145-4e37-b28f-21806248a8a5,pantie.pet,available,6.98,35.98,medium,low,6,namecheap,,,09/09/2026 22:40
-534ede7d-3b31-4988-a8c7-dbd7dc61e5cd,nhk.pet,available,6.41,20.9,medium,low,3,spaceship,,,01/10/2026 12:30
-31b2c284-6384-4355-bda6-8f3aa1331140,vend.pet,available,20.2,20.2,high,low,4,cloudflare,,,30/09/2026 02:34
-ecf64f5d-9692-4df4-9aba-774bd214c205,translates.pet,available,6.41,20.9,medium,low,10,spaceship,,,30/09/2026 00:23
-10d7ec64-f60c-44d4-905e-2ebf3e604516,nts.pet,available,14.49,27.59,high,low,3,namesilo,,,01/10/2026 08:33
-815c9d62-fb4b-435b-a133-80d09f0a8588,anchorman.pet,available,14.49,27.59,high,low,9,namesilo,,,19/09/2026 03:46
-1bb35c6d-2b80-404e-960d-a3cda9a30a30,accomplished.pet,available,20.2,20.2,high,low,12,cloudflare,,,30/09/2026 21:49
-a3111994-f63a-48f8-97fb-98e6f246f422,jiang.pet,available,6.98,35.98,high,low,5,namecheap,,,27/09/2026 08:14
-36bcd7f2-9bce-44e1-a56e-f02850d1a895,jekyll.pet,available,14.49,27.59,medium,low,6,namesilo,,,02/10/2026 01:06
-3d97ae7c-8f63-4449-b493-8d26c8ef8eae,feed.pet,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",24/05/2026 15:15,24/05/2027 15:15,26/09/2026 06:02
-41a59690-3a4c-4dbf-9d48-fec2d9c65554,dover.pet,available,6.98,35.98,high,low,5,namecheap,,,29/09/2026 18:12
-043b797c-ddd5-4dec-bccb-a6d54054727d,enrollments.pet,available,20.2,20.2,medium,low,11,cloudflare,,,30/09/2026 16:24
-da4cb271-5aae-429c-aa11-b61c88057c14,berm.pet,available,6.98,35.98,medium,low,4,namecheap,,,23/09/2026 09:41
-64b60eab-e409-4daa-b9ea-5dee441996de,warships.pet,available,13.5,,medium,low,8,unstoppable,,,01/10/2026 18:32
-597cba8a-ca5b-4626-8b08-4fd548ea6da9,gould.pet,available,14.49,27.59,high,low,5,namesilo,,,25/09/2026 06:39
-7b682a01-63ce-47df-b3b4-0383c722ba78,bionomic.pet,available,6.98,35.98,high,low,8,namecheap,,,10/08/2026 03:03
-600240fc-1698-47c8-b5ec-c94d5ceb1af5,stripy.pet,available,6.98,35.98,medium,low,6,namecheap,,,10/09/2026 22:46
-1f72e71d-cc93-476c-9581-13857ca8eb8f,erection.pet,available,6.41,20.9,high,low,8,spaceship,,,29/09/2026 00:49
-bcce8cf0-7a54-40b8-b6c9-8718b4bb5feb,debating.pet,available,10.92,21.62,medium,low,8,dynadot,,,29/09/2026 05:52
-62553eee-e467-49cc-917f-683c598b1080,rounding.pet,available,10.92,21.62,high,low,8,dynadot,,,29/09/2026 13:53
-de7d0b9a-76b6-47cb-ac1d-934cb8b413c0,tomboyish.pet,available,6.98,35.98,high,low,9,namecheap,,,21/08/2026 14:32
-d1d3fe57-b6b4-4f6e-b075-6264b2771f7e,refunds.pet,available,14.49,27.59,medium,low,7,namesilo,,,20/09/2026 14:13
-52990679-1811-424f-85ad-7576d1991e30,nonplus.pet,available,14.49,27.59,medium,low,7,namesilo,,,21/09/2026 17:34
-6d153f1b-f3cd-4873-bd8c-b887575ca887,melissa.pet,available,14.49,27.59,high,low,7,namesilo,,,27/09/2026 04:11
-bdb2c77c-e51e-4cfc-94e1-243110c8f09c,quiet.pet,available,14.49,27.59,high,low,5,namesilo,,,23/09/2026 12:30
-f4bae75f-40bf-4914-a3f0-3b3ee06e6daa,penultima.pet,available,6.98,35.98,medium,low,9,namecheap,,,08/09/2026 15:14
-8841c264-761e-4341-b902-86ea209bf85b,combined.pet,available,6.98,35.98,high,low,8,namecheap,,,12/08/2026 18:36
-ce8fdd0e-803b-481f-b7a4-f67ecca05d10,orthoptic.pet,available,6.98,35.98,medium,low,9,namecheap,,,04/09/2026 18:06
